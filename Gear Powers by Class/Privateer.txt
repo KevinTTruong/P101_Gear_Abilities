@@ -1,0 +1,93 @@
+Artillery
+Assassin Strike
+Assassin's Mist
+Assassin's Strike
+Back Stab
+Backstab
+Big Juju
+Bone Chant
+Brutal Charge
+Call to Arms
+Calm the Troops
+Canister Shot
+Case Shot
+Critical Strike
+Critical Strike +3 (Melee)
+Critical Strike +3 (Ranged)
+Critical Strile +3 (Melee)
+Dress the line
+Ghostwail
+Grape
+Grape Shot
+Great Juju
+Hoodoo
+Hoodoo Touch
+Hurricane Round
+Hurricane Roundc
+Incendiary Shot
+Increase Base Will
+Inferno Shot
+Juju
+Kracken's Coils
+Kraken's Coils
+Leviathan's Call
+Mighty Charge
+Mojo Blade
+Mojo Blast
+Mojo Storm
+Mojo Strike
+Mournsong
+Mutineer's Grasp
+Rally
+Rallying Call
+Revive
+Rouse
+Shark's Fury
+Sky Spirit
+Snap Shot
+Sneak Attack
+SoulReaver
+Soulreaver
+Steadying Speech
+Storm Round
+The Big Guns
+Triton's Song
+Uncanny Shot
+Valor's Armor
+Valor's Fortress
+Valor's Shield
+Vicious
+Vicious Charge
+Walk in Darkness
+Whale's
+Whale's Might
+Wind Spirit
+
+All Classes:
+Bonfire Shot
+Briny Ballad
+Burning Palm
+Charming Gaze (Rank 1)
+Dispel Magic
+Druid's Chant
+Gunnery
+Increase Base Accuracy
+Increase Base Agility
+Increase Base Strength
+Jobu's Embrace
+Jobu's Kiss
+Pirate
+Rain of Mortarshells
+Rally the Clay
+Random
+Seaver Shanty
+Shadow Step
+Soul Harvest (Rank 1)
+Soul Shroud
+Stone Bastion
+Storm Breath
+Summon Frozen Tide
+Summon Imperial Wave
+Summon Terror-Cotta Troupe
+True Grit
+Wyvern's Song

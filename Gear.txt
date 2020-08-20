@@ -1,0 +1,1481 @@
+Skull Island - Skull Mountain - Fin Dorsal
+
+Accessory: Fin's Goggles - All Classes: Gives Ability: Increase Base Accuracy & Pirate
+
+Outfit: Cultist's Costume - Witchdoctor: +6 Will, +5 Resistance, Gives Ability: Kraken's Coils - Saikes
+Outfit: Voodoo Outfit - Witchdoctor: +6 Will, +5 Resistance, Gives Ability: Rouse
+Outfit: Rascal's Regalia - Swashbuckler: +6 Agility, +5 Resistance, Gives Ability: Wind Spirit
+Outfit: Brawling Togs - Buccaneer: +7 Strength, +5 Resistance, Gives Ability: Grape Shot
+
+Boots: Privateer's Gaiters - Privateer: +5 Maximum Health, Gives Ability: Triton's Song - Saikes
+Boots: Shaman's Haunches - Witchdoctor: +6 Will, Gives Ability: Critical Strike - Firereader24
+Boots: Wraps of Toloc - Witchdoctor: +6 Will, Gives Ability: Wind Spirit - Snorkhor
+Boots: Swabbie's Boots - Swashbuckler: +7 Agility, Gives Ability: Snap Shot - Antp
+
+Hat: Privateer's Kerchief - Privateer: +5 Maximum Health, Gives Ability: Storm Round
+Hat: Skyfarer's Toque - Privateer: +7 Will, Gives Ability: Valor's Shield - Saikes
+Hat: Curate's Cap - Privateer: +7 Will, Gives Ability: Mojo Strike
+Hat: Cadet's Toque - Privateer: +7 Will, Gives Ability: Calm the Troops
+Hat: Trickster's Mask - Witchdoctor: +7 Will, Gives Ability: Kraken's Coils
+Hat: Magician's Headdress - Witchdoctor: +7 Will, Gives Ability: Rouse - Antp
+Hat: Voodoo's Mask - Witchdoctor: +1 Resistance, Gives Ability: Triton's Song
+Hat: The Hat of Toloc - Witchdoctor: +1 Resistance, Gives Ability: Grape Shot
+Hat: Rogue's Cap - Swashbuckler: +2 Dmg, Gives Ability: Mighty Charge - Antp
+Hat: Pirating Cap - Swashbuckler: +6 Agility, +2 Maximum Health, Gives Ability: Triton's Song
+Hat: Bandit's Tricorne - Swashbuckler: +6 Agility, Gives Ability: Grape Shot
+Hat: Jungle Lord's Headdress - Musketeer: +1 Accuracy, Gives Ability: Gunnery
+Hat: Sniper's Bicorne - Musketeer: +6 Agility, Gives Ability: Critical Strike
+Hat: Breacher's Headgear - Buccaneer: +6 Strength, Gives Ability: Critical Strike
+Hat: Heavyweight's Hat - Buccaneer: +6 Strength, Gives Ability: Sneak Attack
+
+Skull Island - Kraken Skulls Tavern - Ratbeard
+
+Outfit: Skyfarer's Overcoat - Musketeer: +6 Agility, +5 Resistance, Gives Ability: Walk in Shadows
+Hat: The Jolly Corsair's Hat - Swashbuckler: +6 Agility, Gives Ability: Mojo Stike
+Hat: Heavyweight's Hat - Buccaneer: +6 Strength, Gives Ability: Sneak Attack - 1Corinthians13
+Boots: The Red Corsair's Boots - Swashbuckler: +5 Damage, Gives Ability: Incendiary Shot - Dredre99877
+
+Level 5
+
+Skull Island - Master's Lair - Emperor Prawn
+
+Charm - Shrimpy Onyx Necklace - All Classes: +1 Base Critical Strike Rating, Gives Ability: Random - Vindr
+Charm - Shrimpy Agate Necklace - All Classes: Increse Base Agility Rank 1, Gives Ability: Random - Vindr
+Charm - Shrimpy Sapphire Necklace - All Classes: Mojo Mastery Rank 1, Gives Ability: Random - Vindr
+Charm - Shrimpy Amethyst Necklace - All Classes: Increase Base Will Rank 1, Gives Ability: Random - Vindr
+Charm - Shrimpy Ruby Necklace - All Classes: Increase Base Strength Rank 1, Gives Ability: Random - Vindr
+Charm - Shrimpy Garnet Necklace - All Classes: Increase Weapon Mastery Rank 1, Gives Ability: Random - Shadestorm
+
+
+
+Agate ---> Increase Base Agility Rank 1
+Amethyst ---> Increase Base Will Rank 1
+Garnet ---> Weapon Mastery Rank 1
+Onyx ---> Increase 1 Critical Strike Rating
+Sapphire ---> Mojo Mastery Rank 1
+Ruby ---> Increase Base Strength Rank 1
+
+Thanks to Shadestorm for the additional research
+
+Skull Island - Jonah Town - Gullet - Fin Dorsal
+
+Outfit: Brigatine Coat - All Classes: +7 Will, +3 Base Armor, Gives Ability: Rouse - Poi40504
+Outfit: Man O' War Vest - All Classes: Requires Talent: Light Armor (Rank 1), +7 Will, +3 Base Armor, Gives Ability: Sneak Attack
+Outfit: Buccaneer's Baldric - Requires Talent: Light Armor (Rank 1), +7 Strength, +3 Armor, Gives Ability: Mighty Charge - Taywonowonpe
+Outfit: Master's Brigandine - Privateer: Requires Talent: Light Armor (Rank 1), +10 Max Health, +3 Armor, Gives Ability: Hoodoo
+
+Touch - Taywonowonpe
+Outfit: Cargo Agent's Vest - Privateer: Requires Talent: Light Armor (Rank 1), +10 Maximum Health, +3 Armor, Gives Ability: Ghostwail
+
+- Poi40504
+Outfit: Cadet's Vest - Privateer: Requires Talent: Light Armor (Rank 1), +10 Maximum Health, +2 Armor, Gives Ability: Mighty Charge
+Outfit: Carrack Jacket - Privateer: Requires Talent: Light Armor (Rank 1), +10 Maximum Health, +3 Armor, Gives Ability: Kraken's Coils
+
+- Poi40504
+Outfit: Summoner's Garb - Witchdoctor: +7 Will, +8 Resistance, Gives Ability: Kraken's Coils - Poi40504
+Outfit: Night Caller's Outfit - Witchdoctor: +7 Will, +8 Resistance, Gives Ability: Rouse - Taywonowonpe
+Outfit: Habilment of Toloc - Witchdoctor: +7 Will, +7 Resistance, Gives Ability: Juju
+Outfit: Explorer's Bracers - Swashbuckler: +1 Dmg, +3 Base Armor, Gives Ability: Valor's Shield - Poi40504
+Outfit: Duello's Belt - Swashbuckler: +1 Dmg, +3 Base Armor, Gives Ability: Calm the Troops - Poi40504
+Outfit: Musketeer's Uniform - Musketeer: +6 Agility, 5 Resistance, Gives Ability: Gunnery
+Outfit: Scaramanga's Frock - Musketeer: +6 Agility, 8 Resistance, Gives Ability: Gunnery
+
+Hat: Blackguard's Quill - Requires Talent: Light Armor (Rank 1), +3 Dmg, +2 Armor, Gives Ability: Storm Round
+Hat: Cadet's Tricorn - Privateer: +7 Will, 2 Armor, Gives Ability: Sneak Attack
+Hat: Cadet's Plume - Privateer: 2 Armor, +10 Maximum Health, Gives Ability: Triton's Song
+Hat: Marine's Kerchief - Privateer: +5 Maximum Health, Gives Ability: Incendiary Shot
+Hat: Cadet's Cover - Privateer: 2 Armor, +10 Maximum Health, Gives Ability: Mighty Charge - Tyrant
+Hat: Master's Capitano - Privateer: +10 Maximum Health, +2 Armor, Gives Ability: Grape Shot - Poi40504
+Hat: Scaramanga's Capello - Privateer: +7 Agility, Gives Ability: Juju
+Hat: Freebooter's Headgear - Privateer: +7 Will, 2 Armor, Gives Ability: Snap Shot
+Hat: Baron Samedi's Hat - Witchdoctor: +2 Resistance, Gives Ability: Gunnery
+Hat: Hoodoo's Mask - Witchdoctor: +2 Resistance, Gives Ability: Walk in Shadows - Poi40504
+Hat: Swashbuckler's Quill - Swashbuckler: Requires Talent: Light Armor (Rank 1), +7 Agility, 2 Armor, Gives Ability: Sneak Attack
+Hat: Rogue's Plume - Swashbuckler: +7 Agility, +2 Armor, Gives Ability: Snap Shot
+Hat: Skyrobber's Tricorn - Swashbuckler: +3 Dmg, +2 Armor, Gives Ability: Incindiary Shot - Poi40504
+Hat: Gunner's Tricorn - Musketeer: +3 Accuracy, Gives Ability: Sneak Attack
+Hat: Officer's Circlet - Musketeer: +3 Accuracy, Gives Ability: Calm the Troops
+Hat: Native Headdress - Musketeer: +7 Agility, Gives Ability: Calm the Troops - Poi40504
+Hat: Skull Island Skullcap - Musketeer: +7 Agility, Gives Ability: Snap Shot - Poi40504
+Hat: Hero's Headgear - Buccaneer: +6 Strength, +2 Armor, Gives Ability: Juju - Poi40504
+Hat: Buccaneer's Plume - Buccaneer: +6 Strength, +2 Armor, Gives Ability: Rouse
+
+Boots: Officer's Shinguards - Privateer: +10 Maxium Health, Gives Ability: Mighty Charge - Poi40504
+Boots: Cadet's Shinguards - Privateer: +10 Maxium Health, Gives Ability: Triton's Song - Poi40504
+Boots: Fortune Seeker's Brogue's - Swashbuckler: +6 Dmg, Gives Ability: Wind Spirit
+Boots: Fighter's Spats - Buccaneer: +2 Armor, Gives Ability: Kraken's Coils
+Boots: Docoit's Brogues - Buccaneer: +7 Strength, Gives Ability: Walk in Shadows
+Boots: Dacoit's Spats - Buccaneer: +2 Armor, Gives Ability: Rouse
+Boots: Brawler's Boots - Buccaneer: +7 Strength, Gives Ability: Gunnery - Poi40504
+Boots: Grappler's Boots - Buccaneer: +7 Strength, Gives Ability: Grape Shot - Poi40504
+Boots: Heroic Boots - Buccaneer: +2 Armor, Gives Ability: Juju - Poi40504
+
+Accessory: Cutthroat Eyepatch - All Classes: +2 Accuracy, +1 Armor, Gives Ability: Triton's Song
+
+Totem: Commandant's Compass - Privateer: +10 Max Health, Gives Ability: Juju
+Totem: Dark Juju - Witchdoctor: +2 Resistance, Gives Ability: Wind Spirit
+Totem: Hoodoo's Tiki - Witchdoctor: +2 Resistance, Gives Ability: Ghostwail - Poi40504
+Totem: Scrapper's Wayfinder - Swashbuckler: +1 Dmg, Gives Ability: Hoodoo Touch - Taywonowonpe
+Totem: Footpad's Gimbal - Swashbuckler: +1 Dmg, Gives Ability: Incendiary Shot - Poi40504
+Totem: Night Wayfinder - Musketeer: +3 Accuracy, Gives Ability: Mojo Strike - Poi40504
+Totem: Sailor's Binnacle - Musketeer: +3 Accuracy, Gives Ability: Valor's Shield - Poi40504
+Totem: Jeweled Wayfinder - Buccaneer: +2 Armor, Gives Ability: Gunnery - Poi40504
+Totem: Pirate's Needle - Buccaneer: +2 Armor, Gives Ability: Walk in Shadows
+
+Ring: Man O' War Band - Privateer: +10 Max Health, Gives Ability: Kraken's Coils - Taywonowonpe
+Ring: Captain's Charm - Privateer: +10 Max Health, Gives Ability: Rouse
+Ring: Tactician's Ring - Privateer: +10 Maximum Health, Gives Ability: Juju - Poi40504
+Ring: Storm Seal - Witchdoctor: +2 Resistance, Gives Ability: Ghostwail
+Ring: Tempest Signet - Witchdoctor: +2 Resistance, Gives Ability: Critical Strike - Guinea Anubis
+Ring: Nightwalker's Band - Swashbuckler: +1 Dmg, Gives Ability: Storm Round - Poi40504
+Ring: Bloody Ring - Swashbuckler: +1 Dmg, Gives Ability: Hoodoo Touch - Snokhor
+Ring: Officer's Circlet - Musketeer: +3 Accuracy, Gives Ability: Calm the Troops - Poi40504
+
+Charm: Pirate's Links - Privateer: +10 Maximum Health, Gives Ability: Rouse - Poi40504
+Charm: Marine's Pendant - Privateer: +10 Max Health, Gives Ability: Kraken's Coils
+Charm: Houngan's Bones - Witchdoctor: +2 Resistance, Gives Ability: Ghostwail - Guinea Anubis
+Charm: Mojo Talisman - Witchdoctor: +2 Resistance, Gives Ability: Wind Spirit
+Charm: Wongo Woo Beads - Witchdoctor: +2 Resistance, Gives Ability: Critical Strike - Taywonowonpe
+Charm: Rogue's Bauble - Swashbuckler: +1 Dmg, Gives Ability: Storm Round
+Charm: Bloody Ribbon - Swashbuckler: +1 Dmg, Gives Ability: Hoodoo Touch - RainbowEnchantress
+Charm: Gunner's Amulet - Musketeer: +3 Accuracy, Gives Ability: Valor's Shield - Poi40504
+Charm: Vegabond's Bauble - Buccaneer: +2 Armor, Gives Ability: Grape Shot
+Weapon: Fin's Cutters - Slashy Weapon: 20 to 34 Physical Dmg, Bonus from Strength
+
+Skull Island - Blood Shoals - Joey Karo
+
+Outfit: Brigatine Coat - All Classes: +7 Will, +3 Base Armor, Gives Ability: Rouse - RainbowEnchantress
+Outfit: Explorer's Bracers - Swashbuckler: +1 Damage, +3 Armor: Gives Ability: Valor's Shield - Dredre99877
+Hat: Freebooter's Headgear - Privateer: Light Armor (Rank 1), +7 Will, +2 Armor, Gives Ability: Snap Shot -
+
+Scarlett1304
+Hat: Hero's Headgear - Buccaneer: +6 Strength, +2 Armor, Gives Ability: Juju - RainbowEnchantress
+Totem: Jeweled Wayfinder - Buccaneer: +2 Armor, Gives Ability: Gunnery
+Charm: Bloody Ribbon - Swashbuckler: +1 Dmg, Gives Ability: Hoodoo Touch - RainbowEnchantress
+Charm: Riflery Charm - Musketeer: +3 Accuracy, Gives Ability: Calm the Troops - Scarlett1304
+Charm: Snake Eye Amulet - Musketeer: +3 Accuracy, Gives Ability: Mojo Strike
+
+Skull Island - Ancient Tunnels - Sammy Davies
+
+Totem: Night Wayfinder - Musketeer: +3 Accuracy, Gives Ability: Mojo Strike - RainbowEnchantress
+Ring: Tactician's Ring - Privateer: +10 Maximum Health, Gives Ability: Juju - RainbowEnchantress
+Charm: Admiral's Medal - Privateer: +15 Maximum Health, Gives Ability: Grape Shot *also Joey Karo (Flotsam)
+Charm: Boarder's Charm - Buccaneer: +2 Armor, Gives Ability: Walk in Shadows
+Charm: Bronze Chain - Buccaneer: +2 Armor, Gives Ability: Gunnery
+
+Skull Island - Skull Island Skyway - Boat: Deidre's Delight - Deadeye Deidre
+
+Hat: Hoodoo's Mask - Witchdoctor: +2 Reistance, Gives Ability: Walk in Shadows - Poi40504
+Boots: Fortune Seeker's Brogue's - Swashbuckler: +6 Dmg, Gives Ability: Wind Spirit - Poi40504
+
+Flotsam Skyway - Flotsam - Peter Law
+
+Outfit: Gunn's Dress Vest - Swashbuckler: +6 Agility, +3 Base Armor, Gives Ability: Wind Spirit - 1Corinthians13
+
+
+Boots: Quetzal Boots - Witchdoctor: +6 Will, +2 Dodge, Gives Ability: Calm the Troops - Artic231206
+
+Level 10
+
+
+Skull Island - Jonah Town - Gullet - Fin Dorsal
+
+Charm: Commodore's Medal - Privateer: +13 Maximum Health, Gives Ability: Critical Strike - Forever Agent M
+
+Skull Island - Blood Shoals - Joey Karo
+
+Outfit: Loa's Robes - Witchdoctor: +7 Will, +11 Resistance, Gives Ability: Incendiary Shot - Tyrant
+Outfit: Bosun's Ulster - Musketeer: +6 Agility, Gives Ability: Walk in Shadows
+
+Hat: Explorer's Quill - Swashbuckler: +3 Armor, +3 Damage, Gives Ability: Snap Shot
+Hat: Marine's Hat - Musketeer: +3 Accuracy, Gives Ability: Rouse - 1Corinthians13
+
+Totem: Captain's Compass - Privateer: +13 Maximum Health, Gives Ability: Sneak Attack - Antp
+
+Ring: Captain's Seal - Privateer: +15 Maximum Health, Gives Ability: Triton's Song - Tyrant
+Ring: Hawk-Eye Ring - Musketeer: +4 Accuracy, Gives Ability: Gunnery 1Corinthians13
+
+Charm: Admiral's Medal - Privateer: +15 Maximum Health, Gives Ability: Grape Shot
+Charm: Sailor's Links - Privateer: +12 Maximum Health, Gives Ability: Storm Round - Tyrant
+Charm: Sailor's Necklace - Musketeer: +4 Accuracy, Gives Ability: Bone Chant
+
+Skull Island - Plundered Tunnels - Altar Room - Guierra
+
+Outfit: Wind Lord's Mail - Privateer: +12 Maximum Health, +9 Armor, Gives Ability: Critical Strike
+Hat: Explorer's Quill - Swashbuckler: +3 Armor, +3 Damage, Gives Ability: Snap Shot
+
+Skull Island - Scrimshaw - Harry Lloyd's Shack - Maurel and Marty
+
+Hat: Aristocrat's Capeline - Privateer: +15 Maximum Health, +4 Armor, Gives Ability: Hoodoo Touch - 1Corinthians13
+
+
+Hat: Helm of the Reaver - Privateer: +7 Strength, +4 Armor, Gives Ability: Juju - Poi40504
+
+Skull Island - Lighthouse - Shady Hollow - Old Scratch
+
+Boots: Houngan's Boots - Witchdoctor: +6 Will, +1 Resistance, Gives Ability: Jobu's Breath - Tyrant
+
+Skull Island - Flooded Tunnels - Haku
+
+Totem: Skyfarer's Journal - Privateer: +15 Maximum Health, Gives Ability: Triton's Song - 1Corinthians13
+
+Skull Island - Flooded Tunnels - Renegade Sanctum - Mogatu
+
+Outfit: Heiromonk's Plate - Privateer: +15 Maximum Health, +11 Armor
+Outfit: Freebooter's Breastplate - Buccaneer: Requires Talent: Heavy Armor (Rank 1), +7 Strength, +11 Armor, Gives Ability: Valor's
+
+Shield
+Outfit: Arms of the Reaver - Buccaneer: Requires Talent: Heavy Armor (Rank 1), +7 Strength, +11 Armor, Gives Ability: Mojo Strike -
+
+1Corinthians13
+Boots: Cadet's Leggings - Privateer: +15 Maximum Health, Gives Ability: Bone Chant - ~Dylan~
+
+Skull Island - Flotsam Skyway- Gold Mine - Valley of the Golden Monkey - Ordaz
+
+Outfit: Missionary's Hauberk - Privateer: Requires Talent: Heavy Armor (Rank 1), +13 Max Health, +10 Base Armor, Gives Ability: Grape
+
+Shot
+Outfit: Oblate's Armor - Privateer: Requires Talent: Heavy Armor (Rank 1), +11 Max Health, +9 Base Armor, Gives Ability: Storm Round
+Hat: Robust Helm - Privateer: Requires Talent: Heavy Armor (Rank 1), +16 Max Health, +4 Armor, Gives Ability: Grape Shot
+Boots: Cadet's Leggings - Privateer: +15 Maximum Health, Gives Ability: Bone Chant - 1Corinthians13
+Boots: Crusader's Greaves - Privateer: +7 Will, Gives Ability: Rouse
+
+Skull Island - Flotsam Skyway - Gold Mine - Valley of the Golden Monkey - Gortez
+
+Outfit: Cutlass Kit - Privateer: Requires Talent: Heavy Armor (Rank 1), +13 Max Health, +10 Base Armor, Gives Ability: Triton's Song
+Outfit: Gortez' Breastplate - Witchdoctor: +12 Will, +12 Resistance - RainbowEnchantress
+Outfit: Garb of the Black Rose - Swashbuckler: Requires Talent: Light Armor (Rank 1), +5 Armor, +1 Damage, Gives Ability: Hoodoo Touch
+Hat: Sturdy Helm - All Classes: Requires Talent: Heavy Armor (Rank 1), +7 Will, +4 Armor, Gives Ability: Rouse
+Hat: Plume of the Black Rose - All Classes: Requires Talent: Light Armor (Rank 1), +7 Agility, +3 Armor, Gives Ability: Rouse -
+
+Arielle
+
+Skull Island - Flotsam Skyway - Gold Mine - Sacrifice Cave - Eep Opp Ork Ah-Ah
+
+Hat: Troggie Helmet - Musketeer: +4 Accuracy, Gives Ability: Walk in Shadows
+Ring: Firstmate's Band - Privateer: +13 Max Health, Gives Ability: Snap Shot
+Ring: Crusader's Seal - Privateer: +15 Max Health, Gives Ability: Mighty Charge - Vandessa
+Ring: Officer's Ring - Privateer: +11 Max Health, Gives Ability: Mojo Strike - Tyrant
+Charm: Sailor's Links - Privateer: +12 Max Health, Gives Ability: Storm Round - 1Corinthians13
+Charm: Chaplain's Necklace - Privateer: +15 Max Health, Gives Ability: Mighty Charge
+Charm: Vegabond's Amulet - Musketeer: +4 Accuracy, Gives Ability: Walk in Shadows
+Charm: Agile Charm - Buccaneer: +1 Strength, +2 Armor, Gives Ability: Wind Spirit
+
+Skull Island - Flotsam Skyway - Volcano - Chumba Wumba
+
+Totem: Antiquated Compass - Privateer: +11 Max Health, Gives Ability: Mojo Strike
+Charm: Cadet's Bauble - Privateer: +16 Max Health, Gives Ability: Rouse - Poi40504
+Charm: Officer's Medal - Privateer: +11 Max Health, Gives Ability: Mojo Strike
+Weapon: Boffstaff - Staffy Weapon: 32 to 54 Damage, Attack Range 4, Bonus from Will - Nesogra
+
+Skull Island - Flotsam Skyway - Perdition's Tempest - Bobby Bones
+
+Outfit: Lance Corporal's Armor - All Classes: Requires Talent: Heavy Armor (Rank 1), +13 Max Health, +10 Base Armor, Gives Ability:
+
+Mighty Charge - RainbowEnchantress
+Hat: Bodyguard's Brim - Swashbuckler: +3 Armor, +3 Damage, Gives Ability: Calm the Troops
+Hat: Preceptor's Helm - Privateer: +16 Max Health, +4 Armor, Gives Ability: Triton's Song
+Weapon: Bobby Bone's Blade - Slashy Weapon: Base Weapon Power: 48, Bonus from Strength, Gives Passive Ability: Repel Boarders Rank 1 - LazyHero
+
+
+
+Monquista - Tierra Primata - Zenda Dungeons - Warden Mendez
+
+Outfit: Heroic Armor - Privateer: +11 Armor, +16 Maximum Health, Gives Ability: Ghostwail
+Hat: Templar's Helm - Privateer: Requires Talent: Heavy Armor (Rank 1), +15 Max Health, +4 Armor, Gives Ability: Ghostwail -
+
+Antp
+Hat: Cataphract Morion - All Classes: Requires Talent: Heavy Armor (Rank 1), +11 Maximum Health, +3 Armor, Gives Ability: Gunnery -
+
+RainbowEnchantress
+Hat: Heiromonk's Helm - Privateer: +4 Armor, +15 Maximum Health, Gives Ability: Kracken's Coils
+Boots: Lucky Greaves - Privateer: +12 Maximum Health, Gives Ability: Triton's Song - 1Corinthians13
+
+Monquista - Vortex of Torment - Iron Monkey
+
+Hat: Wind Lord's Helm - Privateer: +3 Armor, +12 Maximum Health, Gives Ability: Wind Spirit - Poi40504
+
+Level 15
+
+
+Cool Ranch - Cooper's Roost - Clark's House - Johnny Ringo
+
+Totem: Star of the Accurate Shot - Privateer: +21 Maximum Health, Gives Ability: Artillery - RainbowEnchantress
+
+
+Totem: Detective's Medallion - Privateer: +21 Maximum Health, Gives Ability: Call to Arms
+Totem: Lawman's Insignia - Witchdoctor: +3 Resistance, Gives Ability: Cyclone Round - Guinea Anubis
+Totem: Triggerman's Badge - Witchdoctor: +3 Resistance, Gives Ability: Cloud Spirit - RainbowEnchantress
+Totem: Pollard's Silver Satchel - Swashbuckler: +3 Damage, Gives Ability: Mutineer's Grasp - RainbowEnchantress
+
+
+Totem: Crow's Bag - Swashbuckler: +3 Damage, Gives Ability: Critical Strike
+Totem: Captain's Pin - Musketeer: +5 Accuracy, Gives Ability: Quick Shot - RainbowEnchantress
+Totem: Sniper's Hard-Won Badge - Musketeer: +5 Accuracy, Gives Ability: Shark's Fury
+Totem: Deputy's Star - Buccaneer: +3 Armor, Gives Ability: Big Juju
+
+Ring: Bison's Ring - Privateer: +33 Maximum Health, Gives Ability: Mutineer's Grasp - Guinea Anubis
+Ring: Healer's Band - Privateer: +33 Maximum Health, Gives Ability: Critical Strike - Guinea Anubis
+Ring: Searcher's Seal - Privateer: +21 Maximum Health, Gives Ability: Artillery
+Ring: Bandit's Braid - Privateer: +21 Maximum Health, Gives Ability: Soulreaver
+Ring: Wrangler's Ring - Witchdoctor: +3 Resistance, Gives Ability: Valor's Armor
+Ring: Card Shark's Seal - Swashbuckler: +3 Damage, Gives Ability: Mutineer's Grasp - Guinea Anubis
+Ring: Guitarrista's Ring - Swashbuckler: +3 Damage, Gives Ability: Mojo Blast - RainbowEnchantress
+Ring: Sheriff's Jewel - Musketeer: +5 Accuracy, Gives Ability: Walk in Darkness - Guinea Anubis
+Ring: Wrangler's Gemstone - Musketeer: +5 Accuracy, Gives Ability: Quick Shot - RainbowEnchantress
+Ring: Mongo's Seal - Buccaneer: +3 Armor, Gives Ability: Steadying Speech - RainbowEnchantress
+Ring: Veteran's Charm - Buccaneer: +3 Armor, Gives Ability: Big Juju
+
+Charm: Medicine Circle - Witchdoctor: +3 Resistance, Gives Ability: Valor's Armor
+Charm: Windflyer's Weave - Witchdoctor: +3 Resistance, Gives Ability: Cloud Spirit
+Charm: Shaman's Loop - Witchdoctor: +3 Resistance, Gives Ability: Cyclone Round
+Charm: Raven's Talisman - Swashbuckler: +3 Armor, +3 Damage, Gives Ability: Big Juju - Guinea Anubis
+Charm: Card Shark's Totem - Swashbuckler: +3 Dmg, Gives Ability: Mutineer's Grasp - RainbowEnchantress
+Charm: Honor Guard's Totem - Musketeer: +5 Accuracy, Gives Ability: Shark's Fury - RainbowEnchantress
+Charm: Mongo's Flower - Buccaneer: +3 Armor, Gives Ability: Steadying Speech - Tyrant
+Charm: Wolf's Flower - Buccaneer: +3 Armor, Gives Ability: Big Juju - RainbowEnchantress
+
+Weapon: Ringo's Revolvers - Shooty Weapon: 43 to 71 Damage, Attack Range 3, Bonus from Agility, Gives Ability: Overwatch
+Weapon: Boomstick - Shooty Weapon: 36 to 60 Damage, Attack Range 3, Bonus from Agility, Gives Ability: Blunderbuss Shot
+
+Cool Ranch - Arroyo Grande - Junction - Renegade Cave - Captain Foote
+
+Boots: Shy Marshall's Spurs - Musketeer: +8 Agility, Gives Ability: Call to Arms - Scarlett1304
+Charm: Ancestor's Dreamcatcher - Musketeer: +5 Accuracy, Gives Ability: Quick Shot - Scarlett1304 &
+
+RainbowEnchantress
+
+Cool Ranch - Banditoad Gulch - El Guapo
+
+Ring: Card Shark's Seal - Swashbuckler: +3 Dmg, Gives Ability: Mutineer's Grasp - 1Corinthians13
+
+Totem: Marshal's Medallion - Witchdoctor: +3 Resistance, Gives Ability: Valor's Armor - 1Corinthians13
+
+Cool Ranch - Bison Burial Ground - Bison Sacred Cave
+
+Hat: Starlight Headdress - Witchdoctor: +3 Resistance, Gives Ability: Artillery - Antp
+
+Cool Ranch - Arroyo Grande - Junction - Raindrop Cave - Butch Chickadee & Sundance Kid
+
+Outfit: Great Chief's Robes - Privateer: +8 Will, +15 Armor, Gives Ability: Walk in Darkness - Poi40504
+Outfit: Shaman's Leathers - Witchdoctor: +8 Will, +15 Resistance, Gives Ability: Walk in Darkness - ~Dylan~
+Outfit: Shootist's Outfit - Musketeer: +7 Agility, +15 Resistance, Gives Ability: Critical Strike
+
+Hat: Robust Crest - Privateer: +21 Max Health, +5 Armor, Gives Ability: Brutal Charge - Tyrant
+Hat: Totem Headband - Witchdoctor: +8 Will, Gives Ability: Walk in Darkness
+Hat: Tornado Stetson - Swashbuckler: +3 Dmg, +4 Armor, Gives Ability: Brutal Strike
+Hat: Hermit's Brim - Buccaneer: +7 Strength, +5 Armor, Gives Ability: Bonfire Shot - RainbowEnchantress
+
+Boots: Pads of Brother Wolf - Buccaneer: +3 Armor, Gives Ability: Brutal Strike - Mystari
+
+Totem: Marshal's Medallion - Witchdoctor: +3 Resistance, Gives Ability: Valor's Armor - Mystari
+Totem: Wanderer's Badge - Buccaneer: +3 Armor, Gives Ability: Rally - Mystari
+
+Ring: Card Shark's Seal - Swashbuckler: +3 Dmg, Gives Ability: Mutineer's Grasp - RainbowEnchantress
+Ring: Great Chief's Braid - Privateer: +21 Max Health, Gives Ability: Call to Arms
+
+Charm: Bison's Dreamcatcher - Privateer: +21 Max Health, Gives Ability: SoulReaver - RainbowEnchantress
+Charm: Raven's Hoop - Swashbuckler: +3 Dmg, Gives Ability: Mojo Blast - Mystari
+Charm: Brave's Hoop - Buccaneer: +3 Armor, Gives Ability: Rally - Tyrant
+
+Valencia - Granchia - Bruno Chapel - Servus Carbo/Servus Albus
+
+Hat: Phule's Mask - All Classes: +15 Maximum Health, +6 Will, Gives Ability: Walk in Darkness - ShadowWolf347
+
+
+Totem: Phule's Medallion - All Classes: +2 Damage, +2 Resistance, Gives Ability: Mojo Blade - ShadowWolf347
+Weapon: Phule's Wand - Staffy Weapon: 38 to 63 Damage, Attack Range 6, Bonus from Will, Gives Ability: Witch Hunter - ShadowWolf347
+
+Level 20
+
+
+Cool Ranch - Arroyo Grande (East) - The Cave with No Name - The Bird with No Name
+
+Hat: Singer's Crest - Privateer: +8 Armor, +55 Maximum Health, Gives Ability: Case Shot *Also Tyson
+
+Boots: Colonel's Heavy Boots - Privateer: +9 Will, Gives Ability: Big Juju *Also Tyson, Crazy Horn & Captain Blood
+Boots: Artillery Heavy Boots - Buccaneer: +10 Strength, Gives Ability: Shark's Fury *Also Tyson, Crazy Horn & Captain Blood
+
+Ring: Storm Rider's Seal - Musketeer: +8 Accuracy, Gives Ability: Cloud Spirit
+Ring: Anillo De Cuchillo - Swashbuckler: +3 Weapon Power, Gives Ability: Steadying Speech *also Santa Rana
+Ring: Munny's Ring - Witchdoctor: +2 Will, +5 Magic Resist, Gives Ability: Mega Strike
+Ring: Snake's Charm - Witchdoctor: +4 Magic Resist, Gives Ability: Mega Strike *also Santa Rana, Three Scars, English Bill
+Ring: Trooper's Ring - Buccaneer: +4 Armor, Gives Ability: Brutal Charge - 1Corinthians13
+Ring: Josey's Ring - Buccaneer: +2 Strength, +5 Armor, Gives Ability: Walk in Darkness
+
+Totem: Pathfinder's Charm - Buccaneer: +4 Armor, Gives Ability: Brutal Charge
+Totem: Stormcaller's Charm - Buccaneer: +2 Strength, +5 Armor, Gives Ability: Case Shot
+
+Charm: Brave's Spirit Snare - Musketeer: +6 Accuracy, Gives Ability: Call to Arms
+Charm: Coyote's Pouch - Swashbuckler: +3 Weapon Power, Gives Ability: Big Juju *Also Calvera, and Santa Rana
+Charm: Knife Kifghter's Charm - Swashbuckler: +5 Weapon Power, Gives Ability: Shark's Fury - Willowdreamer
+Charm: Spirit Walker's Charm - Witchdoctor: +2 Will, +5 Magic Resist, Gives Ability: Valor's Armor
+Charm: Charm of Resolve - Buccaneer: +2 Strength, +5 Armor, Gives Ability: Steadying Speech
+Charm: Spirit Caller's Charm - Buccaneer: +2 Strength, +5 Armor, Gives Ability: Big Juju
+
+Cool Ranch - Big Sky - The Black Storm - Three Scars
+
+Totem: Green Dream Catcher - Musketeer: +6 Accuracy, Gives Ability: Soul Reaver - RainbowEnchantress
+Charm: Trickster's Talisman - Swashbuckler: +3 Dmg, Gives Ability: Rally
+Charm: Snake Pouch - Witchdoctor: +4 Resistance, Gives Ability: Critical Strike - RainbowEnchantress
+Charm: Shaman's Dreamcatcher - Witchdoctor: +4 Resistance, Gives Ability: Critical Strike - Tyrant
+
+Cool Ranch - Cooper's Roost Skyway - Silver Stallion Ship
+
+Charm: Healer's Charm - Privateer: +33 Health, Gives Ability: Critical Strike - 1Corinthians13
+
+Cool Ranch - Cooper's Roost - Abandoned Train Station - Kid Marmot
+
+Ring: Aro de Brujeria - Witchdoctor: +4 Resistance, Gives Ability: Kraken's Lament
+
+Cool Ranch - Big Sky - Boot Hill - English Bill (The Duck of Death)
+
+Outfit: English Bill's Jacket - All Classes: +6 Will, +22 Resistance, Gives Ability: True Grit - Goosyx56
+
+Hat: English Bill's Hat - All Classes: +7 Will, +3 Resistance, Gives Ability: Jobu's Kiss
+
+Boots: English Bill's Boots - All Classes: +7 Agility, +6 Will, Gives Ability: Bonfire Shot - ShadowWolf347
+
+Ring: Aro De Brujeria - Witchdoctor: +4 Resistance, Gives Ability: Kracken's Lament - 1Corinthians13
+
+Totem: Bronco Family Heirloom - Privateer: +33 Health, Gives Ability: Mutineer's Grasp - RainbowEnchantress
+Totem: Josey's Stolen Bag - Buccaneer: +20 Maximum Health, +4 Armor, Gives Ability: Backstab - Scarlett1304
+
+Charm: Bison's Blue Rhombus - Privateer: +33 Health, Gives Ability: Mutineer's Grasp - RainbowEnchantress
+Charm: Healer's Dreamcatcher - Privateer: +33 Health, Gives Ability: Mojo Blast
+Charm: Champion's Pouch - Witchdoctor: +4 Resistance, Gives Ability: Kracken's Lament - Antp
+Charm: Prenda de Cuchillo - Swashbuckler: +3 Dmg, Gives Ability: Steadying Speech - RainbowEnchantress
+Charm: Prenda de Precision - Musketeer: +6 Accuracy, Gives Ability: Artillery
+
+Weapon: Deathdealers- Shooty Weapon: 60 to 100 Damage, Attack Range 3, Bonus from Agility, Gives Ability: Burst Fire - ShadowWolf347
+
+Cool Ranch - Santo Pollo - Isla De Los Muertos - Cave of Echoes - Thunderhead
+
+Outfit: Army Scout's Buckskins - Buccaneer: +9 Strength, +10 Armor, Gives Ability: Soulreaver
+
+Cool Ranch - Santo Pollo - Banditoad Trail - Caballero Cave - Bobby Bones
+
+Charm: Champion's Pouch - Witchdoctor: +4 Resistance, Gives Ability: Kracken's Lament - RainbowEnchantress
+
+Cool Ranch - Cooper's Roost - Dark Cave - Evil Spirit
+
+Ring: Lieutenant's Band - Musketeer: +6 Accuracy, Gives Ability: Call to Arms - 1Corinthians13
+Ring: Aro De Armadura - Buccaneer: +4 Armor, Gives Ability: Back Stab - RainbowEnchantress
+
+Cool Ranch - Santo Pollo - Banditoad Trail - Caballero Cave - Pancho Grilla & Cisco Kid
+
+Outfit: Sky Marshall's Uniform - Musketeer: +8 Agility, +18 Resistance, Gives Ability: Cloud Spirit
+
+Hat: Chief's Headdress - Witchdoctor: +9 Will, Gives Ability: Cloud Spirit
+
+Totem: Chief's Token - Privateer: +33 Health, Gives Ability: Mojo Blast
+Totem: Crow's Pouch - Swashbuckler: +3 Dmg, Gives Ability: Rally - Antp
+Totem: Butch's Purloined Pouch - Musketeer: +6 Accuracy, Gives Ability: Artillery - RainbowEnchantress
+
+Ring: Bison's Ring - - Privateer: +33 Health, Gives Ability: Mutineer's Grasp
+Ring: Guitarrista's Band - Swashbuckler: +3 Dmg, Gives Ability: Big Juju - ~Dylan~
+Ring: Captain's Band - Musketeer: +6 Accuracy, Gives Ability: Soulreaver
+
+Charm: Healer's Dreamcatcher - Privateer: +33 Health, Gives Ability: Mojo Blast - Flash33
+Charm: Bison's Blue Rhombus - Privateer: +33 Health, Gives Ability: Mutineer's Grasp
+Charm: Healer's Charm - Privateer: +33 Health, Gives Ability: Critical Strike - Poi40504
+Charm: Raven's Talisman - Swashbuckler: +3 Dmg, Gives Ability: Big Juju
+Charm: Trickster's Talisman - Swashbuckler: +3 Dmg, Gives Ability: Rally
+
+Cool Ranch - Santo Pollo Skyway - Santo Pollo - Banditoad Trail - Calvera
+
+Ring: Cavalier's Signet - Swashbuckler: +3 Dmg, Gives Ability: Rally - Monkey D. Luffy
+Ring: Aro De Precision - Musketeer: +6 to Accuracy, Gives Ability: Artillery *also Three Scars, English Bill, Cisco Kid
+
+Totem: Ancestor's Charm - Musketeer: +6 to Accuracy, Gives Ability: Soulreaver - RainbowEnchantress
+
+Cool Ranch - Gold Creek - Gold Creek Cave - Josey Quails
+
+Outfit: Roller's Greatcoat - Swashbuckler: Requires: Light Armor (Rank 1), +8 Agility, +8 Armor, Gives Ability: Rally
+Ring: Guitarrista's Band - Swashbuckler: +3 Dmg, Gives Ability: Big Juju - Mystari
+Charm: Prenda de Cuchillo - Swashbuckler: +3 Dmg, Gives Ability: Steadying Speech
+Charm: Bison's Blue Rhombus - Privateer: +33 Health, Gives Ability: Mutineer's Grasp - 1Corinthians13
+
+Cool Ranch - Santa Pollo Skyway - El Kabong
+
+Hat: Army Brim - Buccaneer: +8 Strength, +4 Armor, Gives Ability: Artillery - 1Corinthians13
+Boots: Warbird's Wraps - Privateer: +8 Will, Gives Ability: Valor's Armor - ~Misty~
+
+Cool Ranch - Santa Pollo Skyway - Castillo Sapo - Santa Rana
+
+Hat: Sant's Rana's Hat - All Classes: Give's Abilty: Overwatch
+
+Totem: Chief's Token - Privateer: +33 Maximum Health, Gives Ability: Mojo Blast
+Totem: Valance's Honor - Witchdoctor: +4 Resistance, Gives Ability: Kraken's Lament
+Totem: Ancestor's Charm - Musketeer: +6 to Accuracy, Gives Ability: Soulreaver
+Totem: Josey's Stolen Bag - Buccaneer: +4 Armor, Gives Ability: Back Stab
+
+Ring: Shaman's Braid - Witchdoctor: +9 Will, Gives Ability: Bonfire Shot
+
+Charm: Shaman's Circle - Witchdoctor: +4 Resistance, Gives Ability: Bonfire Shot - RainbowEnchantress
+Charm: Green Dreamcatcher - Musketeer: +6 to Accuracy, Gives Ability: Soulreaver
+Charm: Bison's Talisman - Buccaneer: +4 Armor, Gives Ability: Brutal Strike
+Charm: Ancestor's Hoop - Buccaneer: +4 Armor, Gives Ability: Case Shot - 1Corinthians13
+
+Weapon: Santa Rana's Scattergun - Shooty Weapon: 50 to 83 Magical Damage, Bonus from Agility, Attack Range 3, Gives Ability: Bunderbuss Shot
+
+Level 25
+
+
+Skull Island - Scurvy Dog Hideout - Temple of Toloc - Ek Beh
+
+Charm: Privateer's Dubloon - Privateer: +43 Max Health, Gives Ability: Rouse - RainbowEnchantress
+Charm: Pirate's Necklace - Musketeer: +7 to Accuracy, Gives Ability: Calm the Troops - ShadowWolf347
+
+Skull Island - Scurvy Dog Hideout - Temple of Toloc - Ek Beh
+
+Hat: Major-General's Helm - Privateer: +9 Will, +7 Armor, Gives Ability: Valor's Shield - ShadowWolf347
+
+Skull Island - Port Regal Skyway - Malestrom of Malice - Iago
+
+Outfit: Royal Engineer's Plate - Privateer: Requires Talent: Heavy Armor (Rank 1), +43 to Max Health, +22 Base Armor, Gives Ability:
+
+Wind Spirit - RainbowEnchantress
+Outfit: Assasin's Baldric - Swashbuckler: +4 Damage, +9 Armor, Gives Ability: Critical Strike - ShadowWolf347
+
+
+
+Level 30
+
+
+Cool Ranch - Arroyo grande - Junction - Carson's Cavern - Jessie & Frank Cranes
+
+Totem: Mighty Elder's Pouch - Privateer: +55 Maximum Health, Gives Ability: Rally
+Totem: Totem of Strength - Privateer: +55 Maximum Health, Gives Ability: Steadying Speech - 1Corinthians13
+Totem: Gallant Bag - Swashbuckler: +5 Dmg, Gives Ability: Shark's Fury - RainbowEnchantress
+Totem: Coyote's Satchel - Swashbuckler: +5 Dmg, Gives Ability: Walk in Darkness - Scarlett1304
+Totem: Glorious Bag - Musketeer: +8 Accuracy, Gives Ability: Cloud Spirit
+
+Ring: Trooper's Seal - Privateer: +55 Maximum Health, Gives Ability: Steadying Speech
+Ring: Desperado's Signet - Privateer: +55 Maximum Health, Gives Ability: Rally
+Ring: Maurauder's Band - Swashbuckler: +5 Dmg, Gives Ability: Walk in Darkness
+
+Charm: Sun Totem - Privateer: +55 Maximum Health, Gives Ability: Steadying Speech
+Charm: Warrior's Dreamcatcher - Musketeer: +8 Accuracy, Gives Ability: Cyclone Round
+
+Cool Ranch - Arroyo grande - Junction - Dusty Arroyo Cave - Buck Bronco
+
+Outfit: Buck's Breeches - All Classes: +50 Maximum Health, +25 Resistance, Gives Ability: Case Shot
+
+Hat: Buck's Brim - All Classes: +8 Damage, Gives Ability: Rain of Mortarshells
+
+Totem: Eagle's Eye Pouch - Musketeer: +8 Accuracy, Gives Ability: Cyclone Round *also The Bird with No Name, & Old Man Bronco
+
+Charm: Trapper's Charm - Musketeer: +8 Accuracy, Gives Ability: Valor's Armor - RainbowEnchantress
+
+Weapon: Buck's Blitzers - Shooty Weapon: 76 to 126 Damage, Bonus from Agility, Range 3, Gives Ability: Overwatch. No Trade - RainbowEnchantress
+
+
+
+Cool Ranch - Haunted Skyway - Commonchero Vortex - Crazy Horn
+
+Outfit: Sergeant's Bandolier - Privateer: +10 Will, +25 Armor, Gives Ability: Rally - 1Corinthians13
+
+Hat: Grizzly Crest - Buccaneer: +9 Strength, +8 Armor, Gives Ability: Kraken's Lament - ShadowWolf347
+
+Boots: Great Spirit Sandals - Privateer: +55 Maximum Health, Gives Ability: Valor's Armor - ShadowWolf347
+
+Cool Ranch - Haunted Skyway - Dusty Vortex - Hang 'Em Cellblock - Captain Foote
+
+Totem: Ghostdancer's Bag - Privateer: +55 Maximum Health, Gives Ability: Big Juju - RainbowEnchantress
+Totem: Glorious Bag - Musketeer: +8 Accuracy, Gives Ability: Cloud Spirit *also The Bird with No Name, Ike Bronco
+Totem: Warrior's Spirit Bag - Musketeer: +6 Accuracy, Gives Ability: Call to Arms *also Butch Chickadee, Josey Quails
+
+Ring: Trooper's Seal - Privateer: +55 Maximum Health, Gives Ability: Steadying Speech - RainbowEnchantress
+Ring: Card Sharp's Seal - Swashbuckler: +5 Dmg, Gives Ability: Quick Shot - Loser4
+Ring: Subaltern's Seal - Privateer: +55 Maximum Health, Gives Ability: Big Juju - RainbowEnchantress
+
+Charm: Trickster Spiritcatcher - Swashbuckler: +5 Dmg, Gives Ability: Quick Shot
+Charm: Bison's Dreamcatcher - Privateer: +21 Max Health, Gives Ability: SoulReaver
+
+Cool Ranch - Tumbleweed - Solitude - Dan Drake
+
+Hat: Card Sharp's Tophat - Swashbuckler: +10 Agility, +6 Armor, Gives Ability: Mojo Blast - 1Corinthians13
+
+Cool Ranch - Tumbleweed Skyway - Old Jailhouse - Ike Bronco
+
+Ring: Drill Sergeant's Ring - Musketeer: +8 Accuracy, Gives Ability: Valor's Armor - ShadowWolf347
+
+Cool Ranch - Tumbleweed Skyway - Traveling Medicine Show - Tyson
+
+Outfit: Fancy Dan's Coat - Swashbuckler: +9 Agility, +10 Armor, Gives Ability: Rally - ShadowWolf347
+Outfit: Stage Bandit's Coat - Swashbuckler: +5 Weapon Power, +10 Armor, Gives Ability: Mojo Blast
+
+Hat: Fancy Dan's Tophat - Swashbuckler: +10 Agility, +6 Armor, Gives Ability: Mutineer's Grasp
+Hat: Tombstone Stetson - Swashbuckler: +4 Weapon Power, +6 Armor, Gives Ability: Case Shot
+Hat: Cowhand's Stetson - Musketeer: +8 Accuracy, Gives Ability: Rally
+Hat: Matador's Headgear - Musketeer: +10 Agility, Gives Ability: Valor's Armor
+
+Boots: Deerstalker's Buckskin's - Privateer: +10 Will, +25 Armor, Gives Ability: Shark's Fury
+Boots: Ordnance Boots - Musketeer: +10 Agility, Gives Ability: Back Stab
+
+Cool Ranch - Tumbleweed Skyway - Old Chirp Place - Ike Bronco
+
+Ring: Storm Rider's Seal - Musketeer: +8 Accuracy, Gives Ability: Cloud Spirit - ShadowWolf347
+
+Level 35
+
+
+Mooshu - Khotan Skyway - Yagizawa Village - No Wei
+
+Outfit: Gusoko of the Center - Privateer: +69 Health, +28 Armor, Gives Ability: Great Juju
+Outfit: Central Wind O-Yoroi - Privateer: +10 Will, +28 Armor, Gives Ability: Revive
+Outfit: Earth Spirit Tatami - Privateer: +69 Health, +28 Armor, Gives Ability: Whale's Might
+Outfit: Centipede Garments - Witchdoctor: +10 Will, +28 Resistance, Gives Ability: Mojo Storm
+Outfit: Zou Yan's Raiments - Witchdoctor: +10 Will, +28 Resistance, Gives Ability: Assassin's Mist
+Outfit: Soulbinder's Robes - Witchdoctor: +10 Will, +28 Resistance, Gives Ability: The Big Guns
+Outfit: Soke's Shozuku - Swashbuckler: +6 Damage, +12 Armor, Gives Ability: Assassin's Mist
+Outfit: Noble Spearbearer's Vest - Musketeer: +10 Agility, +28 Resistance, Gives Ability: Critical Strike +3 (Ranged)
+
+Hat: Centipede's Cap - Witchdoctor: +6 Will, Gives Ability: Whale's Might - Tyrant
+Hat: Wing Kong Gasa - Swashbuckler: +10 Agility, +7 Armor, Gives Ability: Whale's Might
+Hat: Deceiver's Gasa - Swashbuckler: +5 Damage, +7 Armor, Gives Ability: Inferno Shot *Also drops off Chung Po
+Hat: Hideyoshi's Helm - Musketeer: +9 Accuracy, Gives Ability: Mournsong *Also drops off Chung Po
+Hat: Ronin's Kabuto - Buccaneer: +10 Strength, +9 Armor, Gives Ability Valor's Fortress
+Hat: Noble Spearbearer's Hood - Buccaneer: +9 Accuracy, Gives Ability: Rallying Call - 1Corinthians13
+
+Boots: Heart Of Jade Koguke - Privateer: +10 Will, Gives Ability: Revive *Also Drops off Chung Po
+Boots: Ichirai's Geta - Privateer: +69 Health, Gives Ability: Great Juju
+Boots: Bantam Jandals - Witchdoctor: +10 Will, Gives Ability: Mojo Storm - ShadowWolf347
+Boots: Tengu Boots - Swashbuckler: +10 Agility, +7 Dodge, Gives Ability: Revive
+Boots: Four Winds Boots - Musketeer: +10 Agility, +7 Dodge, Gives Ability: Hurricane Round *Also Drops off Chung Po
+Boots: Zen Master's Boots - Musketeer: +10 Agility, +7 Dodge, Gives Ability: Inferno Shot
+Boots: Red Ronin's Geta - Buccaneer: +6 Armor, Gives Ability: Mournsong - Tyrant
+
+MooShu - Kaizoku Jima - Cavern of Whispers - Chopper
+
+Hat: Heart of Jade Kabuto - Privateer: +69 Health, +9 Armor, Gives Ability: Assassin's Strike
+Boots: Ikko-Ikki Jandals - Privateer: +69 Health, Gives Ability: Back Stab
+
+MooShu - Vortex of Strife - Chung Po (On Chung Po's ship)
+
+Outfit: Balancing Breastplate - Privateer: +10 Will, +28 Base Armor, Gives Ability: Sky Spirit - Willowdreamer
+
+Hat: Center Wind Jingasa - COLOR="#0000FF"]Privateer[/COLOR]: +10 Will, +9 Armor, Gives Ability: Canister Shot
+Hat: Osensei's Tenegui - Swashbuckler: +10 Agility, +7 Armor, Gives Ability: Assassin's Strike *also drops off No Wei
+
+Boots: Bantam Jandals - Witchdoctor: +10 Will, Gives Ability: Mojo Storm *also drops off No Wei
+Boots: Ozaki's Geta - Buccaneer: +6 Armor, Gives Ability: Mojo Blade
+
+MooShu - Khotan Skyway - Admiral Chen Ling (On the ship Gyudon)
+
+Ring: Kenko no Ringu - Privateer: +69 Health, Gives Ability: Sky Spirit
+Ring: Kannushi's Gem - Privateer: +69 Health, Gives Ability: Valor's Fortress
+Ring: Orokku's Seal - Witchdoctor: +6 Resistance, Gives Ability: Rallying Call
+Ring: River Kami's Gem - Witchdoctor: +6 Resistance, Gives Ability: Mojo Blade
+Ring: Ebon Pendant - Witchdoctor: +6 Resistance, Gives Ability: Mournsong
+Ring: Soke's Gem - Swashbuckler: +6 Damage, Gives Ability: Critical Strike +3 (Melee)
+Ring: Initiate's Signet - Swashbuckler: +6 Damage, Gives Ability: Critical Strike +3 (Ranged)
+Ring: Ninja Spy's Seal - Swashbuckler: +6 Damage, Gives Ability: Uncanny Shot
+Ring: Great Raydeen's Gem - Musketeer: +9 Accuracy, Gives Ability: The Big Guns
+Ring: Seal of the South Wind - Musketeer: +9 Accuracy, Gives Ability: Mojo Storm
+Ring: Jushi's Ring - Musketeer: +9 Accuracy, Gives Ability: Assassin's Mist
+Ring: August Zanshi's Signet - Buccaneer: +6 Armor, Gives Ability: Whale's Might
+Ring: Red Ronin's Gemstone - Buccaneer: +6 Armor, Gives Ability: Great Juju
+Ring: Bushido Seal - Buccaneer: +6 Armor, Gives Ability: Back Stab - Admiral Chen Ling
+
+Totem: Kannushi's Bauble - Privateer: +69 Health, Gives Ability: Revive
+Totem: Suzuki's Charm - Privateer: +69 Health, Gives Ability: Sky Spirit
+Totem: Torii Token - Privateer: +69 Health, Gives Ability: Valor's Fortress
+Totem: Guman Tong's Lamp - Witchdoctor: +6 Resistance, Gives Ability: Mojo Blade
+Totem: Monk's Globe - Witchdoctor: +6 Resistance, Gives Ability: Mournsong
+Totem: Red Kasha Talisman - Witchdoctor: +6 Resistance, Gives Ability: Rallying Call
+Totem: Apprentice's Lantern - Swashbuckler: +6 Damage, Gives Ability: Critical Strike +3 (Ranged)
+Totem: Sensei's Wappan - Swashbuckler: +6 Damage, Gives Ability: Critical Strike +3 (Melee)
+Totem: Kensei's Green Gift - Swashbuckler: +6 Damage, Gives Ability: Uncanny Shot
+Totem: Inoshishi Crossbowman's Tassel - Musketeer: +9 Accuracy, Gives Ability: Assassin's Mist
+Totem: Loader's Charm - Musketeer: +9 Accuracy, Gives Ability: Mojo Storm
+Totem: Fire Spirit's Charm - Musketeer: +9 Accuracy, Gives Ability: The Big Guns
+Totem: Charm of the West Wind - Buccaneer: +6 Armor, Gives Ability: Great Juju
+Totem: Hotaru Talisman - Buccaneer: +6 Armor, Gives Ability: Back Stab
+Totem: Graven Ivory Bauble - Buccaneer: +6 Armor, Gives Ability: Whale's Might
+
+Charm: Kenko no Medaru - Privateer: +69 Health, Gives Ability: Sky Spirit
+Charm: Saishu's Pendant - Privateer: +69 Health, Gives Ability: Valor's Fortress
+Charm: Apprentice's Chain - Witchdoctor: +6 Resistance, Gives Ability: Mournsong
+Charm: Radish Kami's Pendant - Witchdoctor: +6 Resistance, Gives Ability: Mojo Blade
+Charm: Orokku's Medallion - Witchdoctor: +6 Resistance, Gives Ability: Rallying Call
+Charm: Osensei's Chain - Swashbuckler: +6 Damage, Gives Ability: Critical Strike +3 (Melee)
+Charm: Ninja Spy's Medallion - Swashbuckler: +6 Damage, Gives Ability: Uncanny Shot
+Charm: Life Spirit's Branch - Swashbuckler: +6 Damage, Gives Ability: Critical Strike +3 (Ranged)
+Charm: Jushi's Necklace - Musketeer: +9 Accuracy, Gives Ability: Assassin's Mist
+Charm: Winds of Fire Charm - Musketeer: +9 Accuracy, Gives Ability: Mojo Storm
+Charm: South Wind Ki-Rin - Musketeer: +9 Accuracy, Gives Ability: The Big Guns
+Charm: August Zanshi's Horse - Buccaneer: +6 Armor, Gives Ability: Whale's Might
+Charm: Bushido Medallion - Buccaneer: +6 Armor, Gives Ability: Back Stab
+Charm: Ozaki's Kirin - Buccaneer: +6 Armor, Gives Ability: Great Juju
+
+Mooshu - Khotan Skyway - Sujimura Village - Valley of Titans - Stormzilla
+
+Ring: August Zanshi's Signet - Buccaneer: +6 Armor, Gives Ability: Whale's Might
+
+Level 40
+
+Mooshu - Khotan Skyway - Sujimura Village - Valley of Titans - Stormzilla
+
+Totem: Stormzilla's Tooth - All Classes: +48 Maximum Health, +4 Resistance, Gives Ability: Storm Breath
+
+Mooshu - Khotan Skyway - Kita Dock - Valley of the Titans - Zukoichi's Tower - Zukoichi
+
+Ring: Wushi's Seal - Witchdoctor: +6 Resistance, Gives Ability: Back Stab - ShadowWolf347
+
+Mooshu - Khotan Skyway - Sujimura Village - Swordsman's House - Mooyaguchi
+
+Boots: Kuji-Kiri Tabi - Swashbuckler: +9 Damage, Gives Ability: Canister Shot - ShadowWolf347
+
+Mooshu - Khotan Skyway - Yagizawa Village - Senjo's Lair - Senjo
+
+Outfit: Hexagram Kit - Witchdoctor: +11 Will, +32 Resistance, Gives Ability: Mojo Storm - RainbowEnchantress
+Outfit: Shinpan Daimyo's Armor - Buccaneer: +11 Strength, +32 Base Armor, Gives Ability: Mojo Blade -
+
+RainbowEnchantress
+Hat: Kuroneko's Zukin - Swashbuckler: +11 Agility, +8 Armor, Gives Ability: Vicious Charge - RainbowEnchantress
+
+
+Hat: Eye of the Dragon Kasa - Musketeer: +10 Accuracy, Gives Ability: Mournsong
+Hat: Shinpan Daimyo's Helm - Buccaneer: +10 Strength, +11 Base Armor, Gives Ability: Hurricane Round - Tyrant
+
+
+
+Mooshu - Khotan Skyway - Yagizawa Village - Dojo Tower - Honda
+
+Outfit: Konsha Kote - All Classes: Requires Talent: Heavy Armor (Rank 1), +11 Will, +32 Base Armor, Gives Ability: Great Juju -
+
+RainbowEnchantress
+
+Hat: Choro's Helm - Privateer: +78 Health, 11 Armor, Gives Ability: Valor's Fortress
+
+Boots: Flame Kami's Tabi - Musketeer: +11 Agility, Gives Ability: The Big Guns
+Boots: Kenza's Jandals - Privateer: +78 Health, Gives Ability: Great Juju
+
+Mooshu - Khotan Skyway - Khotan - General Tso
+
+Outfit: General Tso's Kote - All Classes: Requires Talent: Heavy Armor (Rank 1), +35 Base Armor - Halecta
+Outfit: En Clan's Yoroi - Privateer: +32 Armor, +72 Maximum Health, Gives Ability: Leviathan's Call
+Outfit: Konsha Kote - Privateer: +11 Will, +32 Armor, Gives Ability: Great Juju
+Outfit: Chang Sing Vestment - Swashbuckler: +10 Agility, +13 Armor, Gives Ability: The Big Guns
+Outfit: Kuroneko's Shozoku - Swashbuckler: +10 Agility, +13 Armor, Gives Ability: Vicious Charge
+Outfit: Genji's Yoroi - Buccaneer: +11 Strength, +32 Armor, Gives Ability: Mournsong
+
+Hat: Konsha Helmet - Privateer: +78 Health, 11 Armor, Gives Ability: Mojo Blade
+Hat: Dragon Kabuto - Privateer: +78 Health, 11 Armor, Gives Ability: Uncanny Shot
+Hat: Cap of the Darkness - Witchdoctor: +6 Resistance, Gives Ability: Mojo Storm
+Hat: Kitsune's Cap - Witchdoctor: +11 Will, Gives Ability: Great Juju
+Hat: Chang Sing Gasa - Swashbuckler: +11 Agility, +8 Armor, Gives Ability: Leviathan's Call
+Hat: Kano Sensei's Knot - Swashbuckler: +5 Damage, +8 Armor, Gives Ability: Critical Strike +3 (Ranged)
+Hat: Oishi's Great Helm - Buccaneer: +10 Strength, +11 Armor, Gives Ability: Assassin's Strike
+
+Boots: General Tso's Boots - All Classes: Requires Talent: Heavy Armor (Rank 1), +4 Agility, +6 Armor - Halecta
+
+
+Boots: En Clan's Tabi - Privateer: +78 Maximum Health, Gives Ability: Back Stab - Tyrant
+Boots: Choro's Geta - Privateer: +78 Health, Gives Ability: Whale's Might
+Boots: Panda Boots - Witchdoctor: +10 Will, +8 Dodge, Gives Ability: Critical Strike +3 (Melee)
+Boots: Chang Sing Geta - Swashbuckler: +11 Agility, Gives Ability: Mojo Blade
+Boots: Kuroneko's Paws - Swashbuckler: +11 Agility, Gives Ability: Uncanny Shot
+Boots: Genji's Kutsu - Buccaneer: +11 Strength, Gives Ability: Mournsong - Halecta
+Boots: Oishi's Kusari - Buccaneer: +11 Strength, Gives Ability: Mojo Blade - 1Corinthians13
+
+Mooshu - Khotan Skyway - Sujimura Village - Inoshishi House - Jinzaburo
+
+Ring: Ring of the Celestine - Privateer: +78 Health, Gives Ability: Inferno Shot
+Ring: Circlet of Shunzang - Privateer: +78 Health, Gives Ability: Hurricane Round
+Ring: Seal of the North Wind - Witchdoctor: +6 Resistance, Gives Ability: Whale's Might - ShadowWolf347
+Ring: Onyx Signet - Witchdoctor: +6 Resistance, Gives Ability: Great Juju
+Ring: Sharpshooter's Sigil - Swashbuckler: +6 Damage, +3 Agility, Gives Ability Critical Strike +3 (Ranged)
+Ring: Ring of Quickening - Swashbuckler: +6 Damage, +3 Agility, Gives Ability Uncanny Shot
+Ring: Jushi's Stone - Musketeer: +10 Accuracy, Gives Ability: Rallying Call - The Silver
+Ring: Sheji's Seal - Musketeer: +10 Accuracy, Gives Ability: Mojo Blade - Vladamier
+Ring: Zhanshi's Ring - Musketeer: +10 Accuracy, Gives Ability: Mournsong
+Ring: Seal of the Samoorai - Buccaneer: +6 Armor, Gives Ability: Sky Spirit
+Ring: Ring of the 47 - Buccaneer: +6 Armor, Gives Ability: Valor's Fortress
+Ring: Seal of the Shogunate -Buccaneer: +6 Armor, Gives Ability: Revive
+
+Totem: Kannushi's Token - Privateer: +78 Health, Gives Ability: Assassin Strike
+Totem: Zhu's Cherished Omamori - Privateer: +78 Health, Gives Ability: Hurricane Round
+Totem: Water Charm - Witchdoctor: +6 Resistance, Gives Ability: Whale's Might
+Totem: Zhayu's Talisman - Witchdoctor: +6 Resistance, Gives Ability: Back Stab
+Totem: Celestial Basin Bauble - Witchdoctor: +6 Resistance, Gives Ability: Great Juju - Vladamier
+Totem: Assassin's Seal - Swashbuckler: +6 Damage, +3 Agility, Gives Ability: Assassin's Strike
+Totem: Volcanic Pendant - Swashbuckler: +6 Damage, +3 Agility, Gives Ability: Hurricane Round
+Totem: Ashigaru's Lantern - Musketeer: +10 Accuracy, Gives Ability: Mojo Blade - The Silver
+Totem: Adventurer's Amulet -Musketeer: +10 Accuracy, Gives Ability: Mournsong
+Totem: Beacon of Seikou - Musketeer: +10 Accuracy, Gives Ability: Rallying Call
+Totem: Hamzo's Martial Charm - Buccaneer: +6 Armor, Gives Ability: Sky Spirit
+Totem: Koi of Koh Koh - Buccaneer: +6 Armor, Gives Ability: Valor's Fortress
+
+Charm: Saishu's Necklace - Privateer: +78 Health, Gives Ability: Assassin's Strike
+Charm: Saishu's Bauble - Privateer: +78 Health, Gives Ability: Inferno Shot
+Charm: Wushi's Medallion - Witchdoctor: +6 Resistance, Gives Ability: Back Stab
+Charm: Isao's Charm - Swashbuckler: +6 Damage, +3 Agility, Gives Ability: Mojo Blade
+Charm: Inoshishi Blossom - Swashbuckler: +6 Damage, +3 Agility, Gives Ability: Rallying Call
+Charm: Spirit Blossom Charm - Swashbuckler: +6 Damage, +3 Agility, Gives Ability: Mournsong
+Charm: Jushi's Bauble - Musketeer: +10 Accuracy, Gives Ability: Rallying Call
+Charm: Ki-Rin of the West - Buccaneer: +6 Armor, Gives Ability: Valor's Fortress
+Charm: Great Metal Ki-Rin Charm - Buccaneer: +6 Armor, Gives Ability: Revive
+Charm: Pendant of the Samoorai - Buccaneer: +6 Armor, Gives Ability: Sky Spirit
+
+Mooshu - Khotan Skyway - Tai Foon Vortex - Dr Noh
+
+Outfit: Dr Noh's Tunic - All Classes: +31 Resistance, +5 Accuracy, +8 Will, Gives Ability: Mournsong - Halecta
+
+
+Outfit: Kuji-Kiri Garb - Swashbuckler: +6 Damage, +13 Base Armor, Gives Ability: Assassin's Mist - ShadowWolf347
+
+
+OUtfit: Koryo Gi - Swashbuckler: +10 Agility, +13 Armor, Gives Ability: Great Juju
+
+Hat: Water Spirit's Cap - Witchdoctor: +6 Resistance, Gives Ability: Leviathan's Call - LucasSC
+
+Mooshu - Subata Skyway - Sacred Mountain - Tomb of Kow Cheng - Moo Manchu
+
+Outfit: Moo Manchu's Robes - All Classes: +35 Resistance, +11 Will, Gives Ability: Rally the Clay - Cret92
+Hat: Moo Manchu's Hat - All Classes: +6 Resistance, +4 Strength, Gives Ability: Jobu's Embrace - Guinea Anubis
+
+
+Boots: Moo Manchu's Boots - All Classes: +9 Dodge, +9 Will, Gives Ability: Wyvern's Song - ShadowWolf347
+Weapon: Moo Manchu's WAnd - Staffy Weapon: 101 to 169 Damage, +6 Attack Range, Bonus from Will, Gives Ability: Coward's Bane - Halecta /
+
+ShadowWolf347
+
+Mooshu - Subata Skyway - Temple of the South Wind - Sacred Mountain - Monkey King's Cave - Side Chamber - Monkey King
+
+Outfit: Konsha Kote - Privateer: Requires Talent Heavy Armor (Rank 1), +11 Will, +32 Base Armor, Gives Ability: Great Juju -
+
+Tailored
+Outfit: Dragonfang Kote - Privateer: Requires Talent Heavy Armor (Rank 1), +11 Will, +32 Base Armor, Gives Ability: Vicious Charge -
+
+Tailored
+Outfit: En Clan's Yoroi - Privateer: Requires Talent Heavy Armor (Rank 1), +78 Health, +32 Base Armor, Gives Ability: Leviathan's Call
+
+- Tailored
+Outfit: Kenza's Tatami - Privateer: Requires Talent Heavy Armor (Rank 1), +78 Health, +32 Base Armor, Gives Ability: Mojo Storm -
+
+ShadowWolf347
+Outfit: Geomancer's Robes - Witchdoctor: +11 Will, +32 Resistance, Gives Ability: Assassin's Mist -
+
+RainbowEnchantress
+Outfit: Hexagram Kit - Witchdoctor: +11 Will, +32 Resistance, Gives Ability: Mojo Storm - Flash33
+Outfit: Kitsune's Garb - Witchdoctor: +11 Will, +32 Resistance, Gives Ability: The Big Guns - Guinea Anubis
+Outfit: Kuji-Kiri Garb - Swashbuckler: +6 Damage, +13 Base Armor, Gives Ability: Assassin's Mist - Tailored
+Outfit: Kano Sensi Gi - Swashbuckler: +6 Damage, +13 Armor, Gives Ability: Assassin's Strike
+Outfit: Shimazu Clan Robes - Musketeer: +10 Agility, +32 Resistance, Gives Ability: Uncanny Shot -
+
+RainbowEnchantress
+Outfit: Fire Archer's Vest - Musketeer: +10 Agility, +32 Resistance, Gives Ability: Critical Strike (+3) - Tailored
+
+
+Outfit: Genji's Yoroi - Buccaneer: Requires Talent Heavy Armor (Rank 1), +11 Strength, +32 Base Armor, Gives Ability: Mournsong -
+
+Tailored
+
+Hat: Konsha Helmet - Privateer: +78 Maximum Health, 11 Armor, Gives Ability: Mojo Blade - Meetredmeat and ~Misty~
+
+
+Hat: Kenza Kasa - Privateer: +11 Will, 11 Armor, Gives Ability: Revive
+Hat: Geomancer's Wushamao - Witchdoctor: +11 Will, Gives Ability: The Big Guns - Guinea Anubis
+Hat: Hexagram Hat - Witchdoctor: +11 Will, Gives Ability: Vicious Charge
+Hat: Ebon Fang Jin - - Witchdoctor: +6 Resistance, Gives Ability: Sky Spirit - Tailored
+Hat: Green Lotus Gasa - Swashbuckler: +5 Strength, +8 Armor, Gives Ability: Critical Strike - Tailored
+Hat: Chang Sing Gasa - Swashbuckler: +11 Agility, +8 Armor, Gives Ability: Leviathan's Call - Flash33
+Hat: Kuroneko's Zukin - Swashbuckler: +11 Agility, +8 Armor, Gives Ability: Vicious Strike - Flash33
+Hat: Koryo Tenugui - Swashbuckler: +11 Agility, +8 Armor, Gives Ability: Canister Shot - Flash33
+Hat: Imperial Bearer's Hood - Musketeer: +10 Accuracy, Gives Ability: Rallying Call - Flash33
+Hat: Shimazu Clan Jingasa - Musketeer: +10 Accuracy, Gives Ability: Mojo Blade - RainbowEnchantress
+Hat: Genji's Kabuto - Buccaneer: +10 Strength, +11 Armor, Gives Ability: Inferno Shot - Tailored
+
+Boots: En Clan's Tabi - Privateer: +78 Health, Gives Ability: Back Stab - Tailored
+Boots: Peerless Marksman Boots - Witchdoctor: +10 Will, +8 Dodge, Gives Ability: Critical Strike +3 (Ranged)
+Boots: Koryo Tabi - Swashbuckler: +11 Agility, Gives Ability: Valor's Fortress - Flash33
+Boots: Green Lotus Geta - Swashbuckler: +9 Damage, Gives Ability: Rallying Call
+Boots: Kuji-Kiri Tabi - Swashbuckler: +9 Damage, Gives Ability: Canister Shot
+Boots: Fire Archer's Boots - Musketeer: +11 Agility, Gives Ability: Mojo Storm
+Boots: Shimazu Clan Tabi - Musketeer: +11 Agility, Gives Ability: Assassin's Mist
+Boots: Shinpan Daimyo's Tabi - Buccaneer: +11 Strength, Gives Ability: Rallying Call
+
+Mooshu - Subata Skyway - Shadow Fortress - Kirigi
+
+Outfit: Oishi's O-Yoroi - Buccaneer: +11 Strength, +32 Armor, Gives Ability: Rallying Call
+
+Hat: Oishi's Great Helm - Buccaneer: +10 Strength, +11 Armor, Gives Ability: Assassin's Strike
+
+Level 45
+
+Mooshu - Subata Temple - Abe Pagoda - Shan Hong
+
+Totem: Salamander's Charm - Musketeer: +11 Accuracy, Gives Ability: Revive - Cret92
+Charm: Dragon Charm - Privateer: +86 Maximum Health, Gives Ability: Assassin's Strike - Flash33
+Ring: Exorcist's Ring - Privateer: +86 Maximum Health, Gives Ability: Assassin's Strike - 1Corinthians13
+Ring: Lifekami's Jewel - Swashbuckler: +7 Dmg, Gives Ability: Great Juju - Flash33
+
+Mooshu - Subata Skyway - Path of Penance - Temple of the West Wind - Lo Pan
+
+Totem: Kitsune Talisman - Musketeer: +9 Accuracy, Gives Ability: Sky Spirit - RainbowEnchantress
+Ring: Jushi's Ring - Musketeer: +9 Accuracy, Gives Ability: Assassin's Mist - RainbowEnchantress
+Charm: Shinobi's Pendant - Swashbuckler: +7 Dmg, Gives Ability: Back Stab - ShadowWolf347
+Charm: Sparquebus Stone - Musketeer: +11 Accuracy, Gives Ability: Revive
+
+Mooshu - Subata Skyway - Corrupted Shrine - Temple of the East Wind - Friar Sand
+
+Outfit: Shell of the Tortoise - Privateer: +11 Will, +35 Armor, Gives Ability: Uncanny Shot
+Outfit: Seishin Gi - Swashbuckler: +7 Dmg, +15 Armor: Gives Ability: Mojo Storm - Goosyx56
+Outfit: Shaolinquan Vestment - Swashbuckler: +11 Agility, +15 Armor, Gives Ability: Revive - Guinea Anubis
+Outfit: Coat of the Ki-Rin - Musketeer: +11 Agility, +35 Resistance, Gives Ability: Great Juju
+Outfit: Mifune's Gusoku - Buccaneer: +11 Strength, +35 Armor, Gives Ability: Assassin's Strike
+
+Hat: Yonin Hood - All Classes: +5 Dmg, +9 Armor, Gives Ability: Rallying Call
+Hat: Dragonfire Jingasa - Privateer: +86 Maximum Health, +12 Armor, Gives Ability: Great Juju
+Hat: Grand Imperial Jingasa - Privateer: +86 Health, +12 Armor, Gives Ability: Whale's Might - Crushcut
+Hat: Inu-Toshi Zukin - Swashbuckler: +11 Agility, +9 Armor, Gives Ability: Uncanny Shot
+Hat: Veil of the Ki-Rin - Musketeer: +11 Accuracy, Gives Ability: Assassin's Mist
+Hat: Lord Kamei's Kabuto - Buccaneer: +11 Strength, +12 Armor, Gives Ability: Rallying Call
+
+Boots: Dragon's Feet - Privateer: +11 Will, Gives Ability: Leviathan's Call - 11Bobsing
+Boots: Earth Shoes - Privateer: +11 Will, Gives Ability: Mojo Storm - Crushcut
+Boots: Oneiromancer's Geta - Witchdoctor: +11 Will, Gives Ability: Uncanny Shot - Goosyx56
+Boots: Black Jade Jandals - Witchdoctor: +11 Will, Gives Ability: Critical Strike
+Boots: Boots of Security - Buccaneer: +11 Strength, +9 Dodge, Gives Ability: Leviathan's Call - 11Bobsing
+
+Totem: Friar Sand's Gourd - All Classes: +6 Accuracy, +5 Resistance, Gives Ability: Leviathan's Call - Goosyx56
+
+
+Totem: Friar Sand's Medallion - All Classes: +6 Dodge, +56 Maximum Health, Gives Ability: Seaver Shanty
+
+Mooshu - Subata Skyway - Maruzame Castle - Water Temple
+
+Outfit: Tantojutsu Gi - Swashbuckler: +11 Agility, +15 Armor, Gives Ability: Canister Shot - Tyrant
+Totem: Kannushi's Beacon - Privateer: +82 Maximum Health, Gives Ability: Assassin's Strike - RainbowEnchantress
+
+
+Totem: Water Guardian's Medallion - All Classes: +6 Accuracy, +4 Damage, Gives Ability: Briny Ballad - Goosyx56
+
+
+
+Ring: Life Kami's Jewel - Swashbuckler: +7 Dmg, Gives Ability: Great Juju - Kiley
+Ring: Life Kami's Gem - Swashbuckler: +7 Dmg, Gives Ability: Whale's Might
+
+Charm: Dragon's Jade - Privateer: +86 Maximum Health, Gives Ability: Assassin's Strike - RainbowEnchantress
+Charm: Serpent's Charm - Swashbuckler: +7 Dmg, Gives Ability: Whale's Might - Kiley
+Charm: Sparquebus Stone - Musketeer: +11 Accuracy, Gives Ability: Revive - DarthJT
+
+Weapon: Water Guardian's Staff - Smashy Weapon: 119 to 198 Damage, Gives Ability: Ocuboros - ~Misty~
+
+Mooshu - Subata Skyway - Maruzame Castle - Fire Temple
+
+Totem: Fire Guardian's Medallion - All Classes: +4 Dmg, +54 Maximum Health, Gives Ability: Burning Palm - ~Misty~
+
+
+Totem: Salamander's Charm - Musketeer: +11 Accuracy, Gives Ability: Revive - ~Misty~
+Totem: Serpent's Token - Swashbuckler: +7 Dmg, Gives Ability: Great Juju Meetredmeat
+
+Ring: Sothern Dijinn's Ring - Musketeer: +11 Accuracy, Gives Ability: Revive - ~Misty~
+
+Charm: Imperial Medallion - Privateer: +86 Maximum Health, Gives Ability: Hurricane Roundc
+Charm: Life Blossom - Swashbuckler: +7 Dmg, Gives Ability: Great Juju
+Charm: Serpent's Jade - Swashbuckler: +7 Dmg, Gives Ability: Whale's Might
+Charm: Ki-Rin's Jade - Musketeer: +11 Accuracy, Gives Ability: Valor's Fortress - ~Misty~
+
+Mooshu - Subata Skyway - Maruzame Castle - Wood Temple
+
+Totem: Wood Guardian's Blossom - All Classes: +5 Armor, +75 Maximum Health, Gives Ability: Druid's Chant - Halecta
+
+
+
+Mooshu - Subata Skyway - Maruzame Castle - Earth Temple
+
+Outfit: Sohei's O-Yoroi - Privateer: Requires Talent Heavy Armor (Rank 1), +86 Maximum Health, +35 Base Armor, Gives Ability: Vicious
+
+Strike
+Outfit: Yiban's Do - Privateer: Requires Talent Heavy Armor (Rank 1), +86 Maximum Health, +35 Base Armor, Gives Ability: Canister Shot
+Outfit: Saffron Yoroi - Privateer: Requires Talent Heavy Armor (Rank 1), +11 Will, +35 Base Armor, Gives Ability: Critical Strike -
+
+Tailored
+Outfit: Kami no Sensei's Garb - Witchdoctor: +11 Will, +35 Resistance, Gives Ability: Valor's Fortress - Halecta
+
+
+Outfit: Black Jade Shenyi - Witchdoctor: +11 Will, 35 Resistance, Gives Ability: Revive - Kiley
+Outfit: Oneiromancer's Robes - Witchdoctor: +11 Will, 35 Resistance, Gives Ability: Sky Spirit
+Outfit: Seishin Gi - Swashbuckler: +7 Dmg, +15 Armor: Gives Ability: Mojo Storm - ~Misty~
+Outfit: Hato No Kai's Garb - Swashbuckler: +7 Dmg, +15 Armor: Gives Ability: Leviathan's Call
+Outfit: Shaolinquan Vestiment - Swashbuckler: +11 Agility, +15 Base Armor, Gives Ability: Revive
+Outfit: Mifun's Gusoku - Swashbuckler: +11 strength, 35 base armor, Gives Ability: Assassin's Strike - Kiley
+Outfit: Coat of the Ki-Rin - Musketeer: +11 Agility, +35 Resistance, Gives Ability: Great Juju
+Outfit: Teppo Ko Gashira's Garb - Musketeer: +11 Agility, +35 Resistance, Gives Ability: Whale's Might
+Outfit: Standard Bearer's Coat - Musketeer: +11 Agility, Gives Ability: The Big Guns
+
+Hat: Earth Guardian's Helm - All Classes: +4 Strength, +4 Dmg, +11 Armor, Gives Ability: Stone Bastion - ~Misty~
+
+
+Hat: Saffron Waikidate - Privateer: +11 Will, +12 Armor, Gives Ability: Sky Spirit
+Hat: Golden Greaves - Privateer: +11 Will, Gives Ability: Sky Spirit
+Hat: Shugendo Crest - Privateer: +11 Will, +12 Armor, Gives Ability: Revive - RainbowEnchantress
+Hat: Dragonfire Jingasa - Privateer: +86 Maximum Health, 12 armor, Gives Ability: Great Juju - Tailored
+Hat: Sade of The Ancient Wind - Privateer: +86 Maximum Health, 12 armor, Gives Ability: Backstab - Kiley
+Hat: Shaolinquan Gasa - Swashbuckler: +11 Agility, +9 Armor, Gives Ability: Mojo Blade - Kiley
+Hat: Tantojutso Headband - Swashbuckler: +11 Agility, 9 armor, Gives Ability: Valor's Fortress - Kiley
+Hat: Seishin Knot - Swashbuckler: +5 Damage, 9 armor, Gives Ability: Canister Shot
+Hat: Asano's Helm - Swashbuckler: +11 Strength, 12 Armor, Gives Ability: Mojo Blade - Kiley
+Hat: Lord Kamei's Kabuto - Swashbuckler: +11 Strength, 12 Armor, Gives Ability: Rallying Call - Kiley
+Hat: Teppo Ko Gashir's Hat - Musketeer: +11 Accuracy, Gives Ability: Mojo Storm - Kiley
+Hat: Mifune's Waikidate - Buccaneer: +11 Strength, +12 Armor, Gives Ability: Mournsong
+
+Boots: Dragon's Feet - Privateer: +11 Will, Gives Ability: Leviathan's Call - Kiley
+Boots: Kami No Sensei's Geta - Witchdoctor: +11 Will, Gives Ability: Critical Strike
+Boots: Oneiromancer's Geta - Witchdoctor: +11 Will, Gives Ability: Uncanny shot - Kiley
+
+Ring: Southern Cross Gem - Musketeer: +11 Accuracy, Gives Ability: Valor's Fortress - Kiley
+
+Weapon: Earth Guardian's Mace - Smashy Weapon: 119 to 198 Damage, Bonus from Strength, 6 Armor, Gives Ability: Second Chance
+
+Mooshu - Subata Skyway - Maruzame Castle - Metal Temple
+
+Outfit: Sohei's O-Yoroi - Privateer: Requires Talent Heavy Armor (Rank 1), +86 Maximum Health, +35 Base Armor, Gives Ability: Vicious
+
+Strike - RainbowEnchantress
+Outfit: Lord Kamei's Armor - Swashbuckler: +11 Strength, +35 Base Armor, Gives Ability: Hurricane Round - Kiley
+
+
+Outfit: Mifune's Gusoku - Buccaneer: +11 Strength, +35 Armor, Gives Ability: Assassin's Strike
+
+Hat: Dragonfire Jingasa - All Classes: +86 Maximum Health, +12 Armor, Gives Ability: Great Juju
+Hat: Grand Imperial Jingasa - Privateer: Requires Talent Heavy Armor (Rank 1), +86 Maximum Health, +12 Armor, Gives Ability: Whale's
+
+Might - Wolf-S-Ire
+Hat: Teppo Ko Gashira's Hat - Musketeer: +11 Accuracy, Gives Ability: Mojo Storm
+Hat: Mifune's Waikidate - Buccaneer: +11 Strength, +32 Armor, Gives Ability: Mournsong - Halecta
+Hat: Lord Kamei's Kabuto - Buccaneer: +11 Strength, +12 Armor, Gives Ability: Rallying Call - Halecta
+
+Weapon: Metal Guardian's Blade - Smashy/Slashy Weapon: 132 to 200 Damage, Bonus from Strength, Gives Ability: First Strike - 11Bobsing
+
+Level 50
+
+Mushu - Sujimura Village - Scarlet Orchid Tea Room - Sato's Audience Chamber - Sato
+
+Accessory: Black Rain Shades - All Classes: +7 Accuracy, +6 Strength, Gives Ability: Shadow Step - 11Bobsing
+
+Marleybone - Isle of Dogs - Kats Workhouse - Thomas Kat
+
+Hat: Adeptus' Puggaree - Witchdoctor: +8 Resistance, Gives Ability: Mournsong
+
+Marleybone - Isle of Dogs' Sewers - Meowzer's Lair - Meowzer
+
+Accessory: Eye Guard of Deflection - Privateer: +94 Maximum Health, Gives Ability: Leviathan's Call - Toontown2001
+
+
+Accessory: Indubitable Eye Pad - Swashbuckler: +8 Damage, Gives Ability: Mojo Blade *also drops off Sato, Tyler, Captain Kid and Sarab
+
+Ring: Ring of Lord Gloucester - Witchdoctor: +8 Resistance, Gives Ability: Critical Strike - Toontown2001
+Ring: Ring of Lord Collier - Swashbuckler: +8 Damage, Gives Ability: Inferno Shot - Darkheart
+Ring: Ring of Doctor Dee - Musketeer: +13 Accuracy, Gives Ability: Leviathan's Call - Toontown2001
+Ring: Ring of Lord Wellington - Buccaneer: +8 Armor, Gives Ability: The Big Guns - 11Bobsing
+
+Charm: Order of Marleybone - Witchdoctor: +8 Resistance, Gives Ability: Whale's Might - 11Bobsing
+Charm: Order of St. Molosser - Swashbuckler: +8 Damage, Gives Ability: The Big Guns - Toontown2001
+Charm: Order of Sentinels - Musketeer: +13 Accuracy, Gives Ability: Mojo Blade - 11Bobsing
+Charm: Victoria Cross - Buccaneer: +8 Armor, Gives Ability: Revive - 11Bobsing
+
+Totem: Beau's Quizzing Glass - Musketeer: +13 Accuracy, Gives Ability: Whale's Might - 11Bobsing
+
+Marleybone - Isle of Dogs' Sewers - Red Fox's Lair - Red Fox
+
+Outfit: The Arms of the Valiant - Buccaneer: +12 Strength, +39 Armor, Gives Ability: Assassin's Strike - Baveras
+
+
+
+Hat: Hooligan's Derby - All Classes: +6 Dodge, +9 Will - Baveras
+Hat: Hat of the Collar - Privateer: +12 Will, +13 Armor, Gives Ability: Vicious Charge - Baveras
+Hat: Gravedigger's Gatsby - Swashbuckler: +12 Agility, +10 Armor, Gives Ability: Hurricane Round - Baveras
+Hat: Baden-Powell Topee - Musketeer: +12 Agility, Gives Ability: Critical Strike - Baveras
+Hat: Lord Sandhurst's Helm - Buccaneer: +11 Strength, +13 Armor, Gives Ability: Sky Spirit - Baveras
+
+Boots: Hooligan's Boots - All Classes: +8 Dodge, +7 Accuracy - Baveras
+Boots: Sky Lord's Brogues - Privateer: +94 Maximum Health, Gives Ability: Valor's Fortress - Baveras
+Boots: Boots of the Collar - Privateer: +94 Maximum Health, Gives Ability: Sky Spirit - RainbowEnchantress
+Boots: Communard's Clogs - Swashbuckler: +12 Agility, Gives Ability: Vicious Charge - Baveras
+Boots: Jack Ketch's Spats - Swashbuckler: +12 Agility, Gives Ability: Leviathan's Call - Baveras
+Boots: Connaught Ranger Boots - Musketeer: +12 Agility, Gives Ability: Critical Strike - Baveras
+Boots: Boots of the Valiant - Buccaneer: +8 Armor, Gives Ability: Great Juju - Baveras
+
+Marleybone - Isle of Dogs Docks - Cargo Warehouse - Dockworker Dan
+
+Hat: General Ludo's Gatsby - Swashbuckler: +12 Agility, +10 Armor, Gives Ability: Assassin's Strike
+
+Marleybone - Isle of Dogs' Sewers - Robin Oig's Lair - Robin Oig
+
+Hat: Adeptus' Puggaree - Witchdoctor: +8 Resistance, Gives Ability: Mournsong - RainbowEnchantress
+Hat: Rioter's Cap - Swashbuckler: +12 Agility, +10 Armor, Gives Ability: Inferno Shot
+
+Marleybone - Isle of Dogs - Corbett's House - Mr. Lovejoy
+
+Hat: Constabulary Helmet - Musketeer: +12 Agility, Gives Ability: Uncanny Shot - RainbowEnchantress
+
+Marleybone - Beachhead - Main Battery Hold - Engineering - Bishop
+
+Accessory: Technomage's Glasses - All Classes: +6 Will, +6 Magic Resist, Gives Ability: Dispel Magic
+
+Outfit: Communard's Coat - Swashbuckler: +11 Agility, +16 Armor, Gives Ability: Rallying Call - Lucas Walker
+Outfit: Defense Minister's Uniform - Buccaneer: +12 Strength, +39 Armor, Gives Ability: Inferno Shot -
+
+RainbowEnchantress
+Outfit: Lord Sandhurst's Kit - Buccaneer: +12 Strength, +39 Armor, Gives Ability: Hurricane Round -
+
+RainbowEnchantress
+Outfit: The Arms of the Valiant - Buccaneer: +12 Strength, +39 Armor, Gives Ability: Assassin's Strike - Lucas
+
+Walker
+
+Hat: Theoricus' Turban - Witchdoctor: +8 Resistance, Gives Ability: Mojo Blade - RainbowEnchantress & Lucas Walker
+
+
+Hat: Zealator's Pagri - Witchdoctor: +8 Resistance, Gives Ability: Rallying Call - RainbowEnchantress
+Hat: General Ludd's Gatsby - Swashbuckler: +12 Agility, +10 Armor, Gives Ability: Assassin's Strike -
+
+RainbowEnchantress
+
+Boots: Sky Lord's Brogues - Privateer: +94 Health, Gives Ability: Valor's Fortress - RainbowEnchantress & Lucas
+
+Walker
+Boots: Mesmerist's Sandals - Witchdoctor: +11 Will, +10 Dodge, Gives Ability: Assassin's Mist - RainbowEnchantress
+
+
+Boots: The Shoes of the Houndini - Witchdoctor: +11 Will, +10 Dodge, Gives Ability: Mojo Storm - Lucas Walker
+
+
+Boots: Black Watch Waders - Musketeer: +12 Agility, Gives Ability: Uncanny Shot - RainbowEnchantress
+Boots: Lord Sandhurst's Boots - Buccaneer: +8 Armor, Gives Ability: Back Stab
+
+Cool Ranch - Santo Pollo Skyway - Banditoad Trail - Use the Elvator Crane - Ironhorse tunnel - Mr. Lovejoy
+
+Hat: Bisquit Kepi - Privateer: +12 Will, +13 Armor, Gives Ability: Canister Shot - RainbowEnchantress
+
+Level 55
+
+Marleybone - Isle of Dogs - Mechanic's Lab - Tyler
+
+Accessory (Level 50+): Eye Guard of Deflection - Privateer: +94 Maximum Health, Gives Ability: Leviathan's Call
+Accessory: Monocle of Fefraction - Privateer: +94 Maximum Health, Gives Ability: Canister Shot
+Accessory: Admiral's Monocle - Swashbuckler: +8 Weapon Power, Gives Ability: Rallying Call
+Accessory: Brawler's Eyepatch - Buccaneer: +8 Armor, Gives Ability: Hurricane Round - Turtleduck
+Accessory: Schemer's Eyepatch - Buccaneer: +8 Armor, Gives Ability: Assassin's Strike *also dropped by Rooke
+
+Ring: Ring of Lord Rover - Witchdoctor: +8 Resistance, Gives Ability: Uncanny Shot - Turtleduck
+Ring: Ring of St. Marmaduke - Musketeer: +13 Accuracy, Gives Ability: Canister Shot - Turtleduck
+Ring: Ring of Doctor dee - Musketeer: +13 Accuracy, Gives Ability: Leviathan's Call - Turtleduck
+
+Marleybone - Isle of Fetch - Optimus Aurus
+
+Weapon: Dragoon Autocannon - Shooty Weapon: 134 to 224 Damage, Bonus from Agility, Attack Range 3, Gives Ability: Megablast - 11Bobsing
+
+Marleybone - Trafalgar Vortex - The Wreck of the Victory - Rooke
+
+Accessory: Cross Hair Eye Piece - Swashbuckler: +8 Weapon Power, Gives Ability: Mournsong
+Accessory: Eyepatch of Recuperation - Witchdoctor: +8 Magic Resist, Gives Ability: Revive *also drops off Sato, Captain Kid, and
+
+Captain Swing
+Accessory: Collaborator's Eyepatch - Musketeer: +13 Accuracy, Gives Ability: Back Stab
+
+Aquila - Knossos - Labyrinth - Minotaur's Sons
+
+Outfit: Chiron's Corselet - Musketeer: +12 Agility, +42 Resistance, Gives Ability: Mournsong - Wolfmoon
+
+Hat: Gorgonic Exomis - Witchdoctor: +9 Resistance, Gives Ability: Assassin's Mist - Wolfmoon
+Hat: Chiron's Galerus - Musketeer: +15 Accuracy, Gives Ability: Critical Strike - Wolfmoon
+
+Boots: Chiron's Shoes - Musketeer: +12 Agility, +11 Dodge, Gives Ability: Canister Shot - Wolfmoon
+
+Aquila - Knossos - Nevermind Cave - Grohl
+
+Outfit: Leucon's Panoply - Privateer: +99 Health, +41 Armor, Gives Ability: Critical Strile +3 (Melee)
+Outfit: Gorgonic Cloak - Witchdoctor: +12 Will, +42 Resistance, Gives Ability: Back Stab - RainbowEnchantress
+
+
+Outfit: Robe of Thanatos - Witchdoctor: +12 Will, +42 Resistance, Gives Ability: Great Juju
+Outfit: Exomis Gothicus - Swashbuckler: +12 Agility, +18 Armor, Gives Ability: Assassin's Mist
+Outfit: Satyric Lorica - Swashbuckler: +12 Agility, +18 Armor, Gives Ability: Mojo Storm
+Outfit: Arms of Hermes - Musketeer: +12 Agility, +42 Resistance, Gives Ability: Rallying Call
+Outfit: Chiron's Corselet - Musketeer: +12 Agility, +42 Resistance, Gives Ability: Mournsong - RainbowEnchantress
+
+
+Outfit: Nemean Breastplate - Buccaneer: +12 Strength, +42 Armor, Gives Ability: Sky Spirit
+Outfit: Spolas of Eagilles - Buccaneer: +12 Strength, +42 Armor, Gives Ability: Valor's Fortress
+
+Hat: Helm of Leonidas - Privateer: +99 Health, +14 Armor, Gives Ability: Assassin's Strike - RainbowEnchantress
+
+
+Hat: Leucon's Kapelo - Privateer: +99 Health, +14 Armor, Gives Ability: Inferno Shot
+Hat: Protector's Visor - Privateer: +12 Will, +14 Armor, Gives Ability: Valor's Fortress
+Hat: Visor of Asclepius - Privateer: +99 Health, +14 Armor, Gives Ability: Hurricane Round
+Hat: Gorgonic Exomis - Witchdoctor: +9 Resistance, Gives Ability: Assassin's Mist - RainbowEnchantress
+Hat: Hood of Thanatos - Witchdoctor: +9 Resistance, Gives Ability: Mojo Storm - RainbowEnchantress
+Hat: Helm of Athena - Swashbuckler: +12 Agility, +11 Armor, Gives Ability: Leviathan's Call
+Hat: Lofus Gothicus - Swashbuckler: +12 Agility, +11 Armor, Gives Ability: Vicious Charge
+Hat: Satyric Crest - Swashbuckler: +12 Agility, +11 Armor, Gives Ability: Canister Shot
+Hat: Helm of Hermes - Musketeer: +15 Accuracy, Gives Ability: Uncanny Shot
+Hat: Kranos of Eagilles - Buccaneer: +12 Strength, +14 Armor, Gives Ability: Mournsong
+Hat: Nemean Helmet - Buccaneer: +12 Strength, +14 Armor, Gives Ability: Rallying Call
+
+Boots: Olympic Footwear - Privateer: +12 Will, Gives Ability: Back Stab
+Boots: Protector's Boots - Privateer: +12 Will, Gives Ability: Great Juju
+Boots: Sandals of Leonidas - Privateer: +99 Health, Gives Ability: Valor's Fortress
+Boots: Shoes of Asclepius - Privateer: +99 Health, Gives Ability: Sky Spirit - RainbowEnchantress
+Boots: Gorgonic Wraps - Witchdoctor: +12 Will, Gives Ability: Uncanny Shot
+Boots: Plantari of Thanatos - Witchdoctor: +12 Will, Gives Ability: Critical Strike (Ranged)
+Boots: Plantari Gothicus - Swashbuckler: +12 Agility, +11 Dodge, Gives Ability: Hurricane Round -
+
+RainbowEnchantress
+Boots: Satyric Shoes - Swashbuckler: +12 Agility, +11 Dodge, Gives Ability: Assassin's Strike
+Boots: Caligae of Hermes - Musketeer: +12 Agility, +11 Dodge, Gives Ability: Vicious Charge
+
+Aquila - Illios - The Caves of Ruin - Cadmus
+
+Outfit: Arms of Asclepius - Privateer: +99 Health, +41 Armor, Gives Ability: Uncanny Shot
+Outfit: Arms of Leonidas - Privateer: +99 Health, +41 Armor, Gives Ability: Critical Strike +3 (Ranged)
+Outfit: Arms of Athena - Swashbuckler: +12 Agility, +18 Armor, Gives Ability: The Big Guns
+
+Hats: Mighty Caesar's Galea - Privateer: +12 Will, +14 Armor, Gives Ability: Revive
+Hats: Olympic Helmet - Privateer: +12 Will, +14 Armor, Gives Ability: Sky Spirit
+
+Boots: Leucon's Botes - Privateer: +99 Health, Gives Ability: Revive
+Boots: Mighty Caesar's Caligae - Privateer: +12 Will, Gives Ability: Whale's Might - RainbowEnchantress
+Boots: Sandali of Athena - Swashbuckler: +12 Agility, +11 Dodge, Gives Ability: Inferno Shot
+
+Aquila - Ithaca - Palace of Ulysses - Eurymachus
+
+Hat: Chiron's Galerus - Musketeer: +15 Accuracy, Gives Ability: Critical Strike +3 (Ranged)
+
+Boots: Chiron's Shoes - Musketeer: +12 Agility, +11 Dodge, Gives Ability: Canister Shot
+
+Aquila - Illios - Lair of Shadows - Diskylos
+
+Accessory: Eyepatch of Pallas' Wrath - Privateer: +99 Health, Gives Ability: Mournsong *also drops off Zeena
+Accessory: Mirrored Shield Eyepatch - Privateer: +99 Health, Gives Ability: Rallying Call *also drops off Zeena and Medea
+Accessory: Patch of Chthonic Rage - Witchdoctor: +9 Magic Resist, Gives Ability: Vicious Charge *also drops off Zeena
+Accessory: Themis' Patch of Justice - Witchdoctor: +9 Resistance, Gives Ability: Canister Shot *also drops off Zeena and Sssiva
+Accessory: Asclepius' Eye Bower - Swashbuckler: +3 Agility, +8 Weapon Power, Gives Ability: Valor's Fortress
+Accessory: Patch of Serpentine Assault - Swashbuckler: +3 Agility, +8 Weapon Power, Gives Ability: Sky Spirit
+Accessory: Orthrus' Sinister Eyepatch - Musketeer: +15 Accuracy, Gives Ability: Assassin's Strike *also drops of Talos, Khagan and
+
+Zeena
+Accessory: Eyepatch of Theia's Light - Buccaneer: +9 Armor, Gives Ability: Critical Strike +3 (Ranged) *also drops of Medea and Zeena
+
+Charm: Charm of Thunderbolts - Witchdoctor: +9 Resistance, Gives Ability: Hurricane Round - Rainbowhearted
+
+Aquila - Achaea - Palace of the Amazons - Zeena's Sanctum - Zeena
+
+Accessory: Patch of Forceful Smiting - Privateer: +102 Health, Gives Ability: The Big Guns *also drops off Medea
+Accessory: Pasiphae's Eyeblind - Privateer: +99 Health, Gives Ability: Mojo Blade *also drops off Zeena
+Accessory: Asclepius' Talisman - Swashbuckler: +3 Agility, +8 Weapon Power, Gives Ability: Valor's Fortress
+Accessory: Orthrus' Sinister Eye Patch - Musketeer: +15 Accuracy, Gives Ability: Assassin's Strike
+Accessory: Patch of Tyche's Blind Luck - Musketeer: +15 Accuracy, Gives Ability: Hurricane Round *also drops of Zeena and Medusa
+Accessory: Patch of Strobing Blasts - Buccaneer: +9 Armor, Gives Ability: Uncanny Shot *also drops off Zeena, and Sssiva
+
+Ring: Ring of King Clifford - Privateer: +94 Health, Gives Ability: Mournsong
+Ring: Ring of Sssargon - Privateer: +99 Health, Gives Ability: Inferno Shot
+Ring: Ring of Tarterus - Privateer: +99 Health, Gives Ability: Assassin's Strike
+Ring: Ring of Athena - Witchdoctor: +9 Resistance, Gives Ability: Rallying Call
+Ring: Ring of the Chimera - Witchdoctor: +9 Resistance, Gives Ability: Mournsong
+Ring: Ring of Apollo - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Uncanny Shot
+Ring: Ring of Ulysses - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Critical Strike +3 (Ranged)
+Ring: Ring of Acheron - Musketeer: +15 Accuracy, Gives Ability: Assassin's Mist
+Ring: Ring of Zeus - Musketeer: +15 Accuracy, Gives Ability: Mojo Storm
+Ring: Ring of Hephaestus - Buccaneer: +9 Armor, Gives Ability: Great Juju
+Ring: Ring of Hermes - Buccaneer: +9 Armor, Gives Ability: Back Stab
+
+Charm: Amulet of Ares - Privateer: +99 Health, Gives Ability: The Big Guns
+Charm: Amulet of Zeus - Privateer: +99 Health, Gives Ability: Mojo Storm
+Charm: Gorgon's Amulet - Privateer: +99 Health, Gives Ability: Assassin's Mist
+Charm: Charm of Thunderbolts - Witchdoctor: +9 Resistance, Gives Ability: Hurricane Round
+Charm: Stygian Charm - Witchdoctor: +9 Resistance, Gives Ability: Assassin's Strike
+Charm: Medallion of Hermes - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Great Juju
+Charm: Stygian Medallion - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Back Stab
+Charm: Apollo's Necklace - Musketeer: +15 Accuracy, Gives Ability: Valor's Fortress
+Charm: Necklace of Hermes - Musketeer: +15 Accuracy, Gives Ability: Sky Spirit
+Charm: Chain of Ares - Buccaneer: +9 Armor, Gives Ability: Vicious Charge
+Charm: Chain of the Furies - Buccaneer: +9 Armor, Gives Ability: Canister Shot
+
+Totem: Asclepius' Talisman - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Valor's Fortress
+
+Level 60
+
+Aquila - Knossos - Labyrinth - Minotaur's Sons
+
+Hat: Helm of Ares - Buccaneer: +12 Strength, +14 Armor, Gives Ability: Mojo Blade - Wolfmoon
+
+Ring: Septum of Taurus - All Classes: +8 Armor, +6 Resistance - Shadowwolf347
+
+Aquila - Knossos - Nevermind Cave - Grohl
+
+Outfit: Olympic Armor - Privateer: +102 Health, +42 Armor, Gives Ability: Vicious Charge
+Outfit: Hades Exomis - Witchdoctor: +12 Will, +42 Resistance, Gives Ability: Whale's Might
+Outfit: Chlamys of Bellerophon - Swashbuckler: +8 Damage, +18 Armor, Gives Ability: Uncanny Shot
+Outfit: Tunic of Faunus - Swashbuckler: +8 Damage, +18 Armor, Gives Ability: Critical Strike +3 (Ranged)
+Outfit: Titanic Corselet - Musketeer: +12 Agility, 42 Resistance, Gives Ability: Mojo Blade
+Outfit: Arms of Ares - Buccaneer: +12 Strength, +42 Armor, Gives Ability: Revive
+
+Hat: Galea of Augustus - Privateer: +102 Health, +14 Armor, Gives Ability: Whale's Might
+Hat: Helm of Apollo - Privateer: +102 Health, +14 Armor, Gives Ability: Back Stab
+Hat: Imperator's Crown - Privateer: +102 Health, +14 Armor, Gives Ability: Great Juju
+Hat: Hades Cowl - Witchdoctor: +9 Resistance, Gives Ability: The Big Guns
+Hat: Chaotic Crista - Swashbuckler: +8 Damage, +11 Armor, Gives Ability: Inferno Shot
+Hat: Crest of Faunus - Swashbuckler: +8 Damage, +11 Armor, Gives Ability: Assassin's Strike
+Hat: Titanic Casila - Musketeer: +15 Accuracy, Gives Ability: Critical Strike +3 (Melee)
+Hat: Helm of Ares - Buccaneer: +12 Strength, +14 Armor, Gives Ability: Mojo Blade
+
+Boots: Greaves of Augustus - Privateer: +102 Health, Gives Ability: Mojo Blade
+Boots: Hades' Soccusi - Witchdoctor: +12 Will, Gives Ability: Critical Strike +3 (Melee)
+Boots: Chaotic Knimis - Swashbuckler: +8 Damage, +12 Dodge, Gives Ability: Revive
+Boots: Shoes of Faunus - Swashbuckler: +8 Damage, +12 Dodge, Gives Ability: Valor's Fortress
+Boots: Titanic Boots - Musketeer: +12 Agility, +11 Dodge, Gives Ability: Leviathan's Call - Synakul
+Boots: Nemean Boots - Buccaneer: +9 Armor, Gives Ability: Assassin's Mist
+Boots: Plantari of Eagilles - Buccaneer: +9 Armor, Gives Ability: Mojo Storm
+
+Aquila - Illios - The Caves of Ruin - Cadmus
+
+Outfit: Arms of Apollo - Privateer: +12 Will, +42 Armor, Gives Ability: Hurricane Round
+Outfit: Protector's Panoply - Privateer: +102 Health, +42 Armor, Gives Ability: Canister Shot
+Outfit: Imperator's Panoply - Privateer: +12 Will, +42 Armor, Gives Ability: Assassin's Strike
+Outfit: Chaotic Cloak - Swashbuckler: +8 Damage, +18 Armor, Gives Ability: Critical Strike +3 (Melee)
+
+Boots: Greaves of Apollo - Privateer: +102 Health, Gives Ability: Rallying Call
+
+Aquila - Ithaca - Palace of Ulysses - Eurymachus
+
+Outfit: Arms of Augustus - Privateer: +12 Will, +42 Armor, Gives Ability: Inferno Shot
+Outfit: Mighty Caesar's Spolas - Privateer: +102 Health, +42 Armor, Gives Ability: Leviathan's Call
+
+Boots: Imperator's Sandali - Privateer: +102 Health, Gives Ability: Mournsong
+
+Aquila - Ithaca - Palace of Ulysses - Antinous
+
+Boots: Greaves of Bellerophon - Swashbuckler: +8 Damage, +12 Dodge, Gives Ability: Sky Spirit
+
+Aquila - Achaean Way - Captain Spartacos
+
+Hat: Helm of Bellerophon - Swashbuckler: +8 Damage, +11 Armor, Gives Ability: Hurricane Round
+
+Aquila - Achaea - Palace of the Amazons - Zeena's Sanctum - Zeena
+
+Accessory: Medusa's Venom Eyepatch - Privateer: +102 Health, Gives Ability: Assassin's Mist
+Accessory: Tiresias' Clairvoyant Patch - Witchdoctor: +9 Resistance, Gives Ability: Leviathan's Call *also Medea and Medusa
+Accessory: Patch of Asterion's Ruin - Musketeer: +15 Accuracy, Gives Ability: Inferno Shot
+Accessory: Patch of the Caged Beast - Buccaneer: +9 Armor, Gives Ability: Super Strike (Melee)
+
+Ring: Ring of Bellerophon - Privateer: +102 Health, Gives Ability: Sky Spirit
+Ring: Ring of Hestia - Privateer: +102 Health, Gives Ability: Revive
+Ring: Ring of Orpheus - Privateer: +102 Health, Gives Ability: Valor's Fortress
+Ring: Ring of Parisss - Witchdoctor: +9 Resistance, Gives Ability: Mojo Blade
+Ring: Ring of Hector - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Critical Strike +3 (Melee)
+Ring: Ring of Hawkules - Musketeer: +15 Accuracy, Gives Ability: The Big Guns
+Ring: Ring of Typhon - Buccaneer: +9 Armor, Gives Ability: Whale's Might
+
+Charm: Amulet of Athena - Privateer: +102 Health, Gives Ability: Critical Strike +3 (Ranged)
+Charm: Amulet of Hippolyta - Privateer: +102 Health, Gives Ability: Uncanny Shot
+Charm: Myrmidon's Amulet - Privateer: +102 Health, Gives Ability: Critical Strike +3 (Melee)
+Charm: Charm of Acheron - Witchdoctor: +9 Resistance, Gives Ability: Inferno Shot - Rainbowhearted
+Charm: Medallion of Ares - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Whale's Might
+Charm: Hera's Necklace - Musketeer: +15 Accuracy, Gives Ability: Revive
+Charm: Chain of Hermes - Buccaneer: +9 Armor, Gives Ability: Leviathan's Call - Darkheart
+
+Aquila - Achaea - Medea's Sanctum - Medea
+
+Accessory: Eyepatch of Blind Fury - Privateer: +102 Health, Gives Ability: Mojo Storm *also drops off Zeena
+Accessory: Paeon's Healing Patch - Swashbuckler: +8 Damage, +3 Agility, Gives Ability: Revive *also drops off Zeena, Talos, Sssiva and
+
+Medusa
+
+MooShu - The Paths of Penance - Tower of Moo Manchu - Nefarious Five
+
+Outfit: Turncoat's Uniform - All Classes: +45 Magic Resist, Gives Ability: Increase Base Strength
+Outfit: Silver Moodha Armor - Privateer: +13 Will, +45 Armor, Gives Ability: Revive & The Big Guns
+Outfit: Devil Doctor Silks - Witchdoctor: +13 Will, +45 Magic Resist, Gives Ability: Mournsong & Mojo Storm
+
+Hat: Turncoat's Cap - All Classes: +9 Magic Resist, Gives Ability: Increase Base Agility
+Hat: Silver Moodha Hotokedo - Privateer: +13 Will, +15 Armor, Gives Ability: Revive & Valor's Fortress
+Hat: Death Lily Kusari - Swashbuckler: +13 Agility, +11 Armor, Gives Ability: Walk in Darkness & Assassin's Strike
+
+Boots: Turncoat's Boots - All Classes: +16 Dodge, Gives Ability: Increase Base Will
+Boots: Silver Moodha Geta - Privateer: +12 Will, Gives Ability: The Big Guns & Valor's Fortress
+
+Accessory: Baron Samedi's Masque - All Classes: Gives Ability: Soul Harvest (Rank 1)
+Accessory: Death's Bargain - All Classes: Gives Ability: Soul Shroud *also drops off Moo Manchu
+Accessory: Masque of the Lotus - All Classes: Gives Ability: Charming Gaze (Rank 1)
+
+Ring: Jennings' Ring - Privateer: +109 Maximum Health, Gives Ability: The Big Guns & Valor's Fortress
+Ring: Finkle's Loop - Witchdoctor: +9 Magic Resist, Gives Ability: Jobu's Embrace & Mojo Storm
+
+Level 65
+
+MooShu - The Paths of Penance - Tower of Moo Manchu - Nefarious Five
+
+Outfit: Corrupted Wushi's Robe - Witchdoctor: +13 Will, +48 Magic Resist, Gives Ability: Mournsong & Mojo Storm
+Outfit: Corrupted Archer's Jacket - Musketeer: +13 Agility, +48 Magic Resist, Gives Ability: Bear Trap & Hail of Cannonballs
+
+Hat: Corrupted Samoorai's Hotokedo - Buccaneer: +13 Strength, +16 Armor, Gives Ability: Super Strike (Melee) & Vicious Charge
+
+Boots: Corrupted Warlord's Boots - Privateer: +13 Will, Gives Ability: The Big Guns & Valor's Fortress
+Boots: Corrupted Samoorai's Geta - Buccaneer: +13 Strength, Gives Ability: Super Strike (Melee) & Leviathan's Call
+
+Totem: Token of Moo Manchu - Buccaneer: +10 Armor, Gives Ability: Super Strike (Melee) & Vicious Charge
+
+Weapon: Bound Oni's Bulwark - Slashy/Smashy, Bonus from Will, 205 Weapon Power, +15 Armor, Gives Ability: Hold the Line (Rank 1), Increase Base Armor & Increase Base
+
+Resistance
+Weapon: Dragon-Axe of Doom - Smashy/Slashy, Bonus from Strength, 235 Weapon Power, Gives Ability: Flames of Corruption & Turn the Tide
+Weapon: Nefarious Knives - Stabby, Bonus from Agility, 225 Weapon Power, +30 percent armor penetration, Gives Ability: Flanking (Rank 1) and Walk in Darkness
+Weapon: Nefarious Novablaster - Shooty, Bonus from Agility, 210 Weapon Power, Gives Ability: True Grit (Rank 1) and Novablast
+Weapon: Nefarious Staff - Staffy, Bonus from Will, 190 Weapon Power, Gives Ability: Jobu's Ruse (Rank 1) and Summon Scorpion Swarm
+
+MooShu - The Paths of Penance - Tower of Moo Manchu - Moo Manchu
+
+Outfit: Imperial Robes of Moo Manchu - All Classes: +14 Strength, +49 Magic Resist, Gives Ability: Summon Terror-Cotta Troupe
+Hat: Imperial Hat of Moo Manchu - All Classes: +14 Will, +10 Magic Resist, Gives Ability: Summon Imperial Wave
+Boot: Imperial Boots of Moo Manch - All Classes: +14 Agility, +18 Dodge, Gives Ability: Summon Frozen Tide
+
+Weapon: Staff of Power - Class dependant, stats change depending on what class has staff equiped
+Privateer: Smashy/Staffy, Bonus from Will, 235 Weapon Power, Gives Ability: Increase Base Will & Dress the line
+Witchdoctor: Staffy, Bonus from Will, 195 Weapon Power, Gives Ability: Increase Base Will & Mojo Mastery
+Swashbuckler: Stabby/Staffy, Bonus from Agility, 193 Weapon Power, Gives Ability: Increase Base Agility & Vengeance Shroud
+Musketeer: Shooty/Staffy, Bonus from Agility, 195 Weapon Power, Gives Abiliity: Increase Base Agility & Suppression Fire
+Buccaneer: Smashy/Staffy, Bonus from Strength, 235 Weapon Power, Gives Ability: Increase Base Strength & Relentless Riot
+
+Level 70
+
+Valencia - Machine Dungeon - Kane/Captain Hande
+
+Outfit: Baretta Bandolier - Privateer: +14 Will, +52 Base Armor, Gives Abilities Firstmate's Boon & Hold the Line - Cass Moone
+Outfit: Fabris Greatcoat - Witchdoctor: +14 Will, +52 Base Magic Resist, Gives Abilities Widow's Touch & Increase Base Will - Vindr
+Outfit: Agrippa Greatcoat - Witchdoctor: +14 Will, +52 Base Magic Resist, Gives Abilities Heat Metal & Widow's Touch - Maple9300
+Outfit: Bardigiano Cloak - Musketeer: +13 Agility, +52 Base Magic Resist, Gives Abilities Increase Base Agility & Quick Adjust - Maple9300
+Outfit: Sforza Field Jacket - Buccaneer: +14 Strength, +52 Base Armor, Gives Abilities Sundering Strike & Triton's Chorus
+
+Hat: Kane's Mask - All Classes: +11 Armor, +11 Magic Resist, Gives Abilities Increase Base Agility, Increase Base Strength, Increase Base Will & Kane's Castle
+Hat: Villarroel Cordoba - Privateer: +14 Will, +17 Base Armor, Gives Abilities Firstmate's Boon & Increase Base Will - Vindr
+Hat: Retana Cordoba - Privateer: +14 Will, +17 Base Armor, Gives Abilities Hold the Line & Increase Base Will
+Hat: Muserola Cordoba - Privateer: +17 Armor, +120 Health, Gives Abilities Hold the Line & Firstmate's Boon
+Hat: Mosquera Cordoba - Privateer: +126 Health, +17 Base Armor, Gives Abilities Firstmate's Boon & Hold the Line - Vindr
+Hat: Cordoba of Tirante - Privateer: +17 Armor, +126 Health, Gives Abilities Hold the Line & Increase Base Will
+Hat: Frontalera Cordoba - Privateer: +17 Armor, +120 Health, Gives Abilities Hold the Line & Firstmate's Boon
+Hat: Altafulla Chilote - Swashbuckler: +14 Agility, +13 Armor, Gives Abilities Increase Base Dodge & Increase Base Agility
+Hat: Jalon Valley Chilote - Swashbuckler: +14 Agility, +13 Armor, Gives Abilities Assassin's Strike & Increase Base Dodge
+Hat: Mijas Campaign Hat - Musketeer: +14 Agility, Gives Abilities True Grit & Increase Base Agility - Vindr
+Hat: Nerja Campaign Hat - Musketeer: +14 Agility, Gives Abilities True Grit & Quick Adjust
+Hat: Murcia Campaign Hat - Musketeer: +14 Agility, Gives Abilities Increase Base Agility & Quick Adjust
+Hat: Sabueso Busby - Buccaneer: +13 Strength, +17 Armor, Gives Abilities Sundering Strike & Triton's Chorus
+
+Boots: Brindle Sandles - Privateer: +126 Health, Gives Abilities Hold the Line & Increase Base Will - Vindr
+Boots: Pangare Sandles - Privateer: +126 Health, Gives Abilities Firstmate's Boon & Increase Base Will - Vindr
+Boots: Inesite Chilote - Swashbuckler: +13 Armor, +10 Weapon Power, Gives Abilites Increase Base Dodge & Increase Base Agility
+
+Ring: Bresciani Band - Musketeer: +19 Accuracy, Gives Abilities True Grit & Increase Base Agility - Vindr
+
+Charm: Capitano Chain - Privateer: +126 Health, Gives Abilities Firstmate's Boon & Hold the Line - Vindr
+Charm: Capitano Necklace - Privateer: +126 Health, Gives Abilities Firstmate's Boon & Increase Base Will - Vindr
+Charm: Denandanti Amulet - Witchdoctor: +10 Magic Resist, Gives Abilities Widow's Touch & Increase Base Will
+Charm: Soldato Amulet - Buccaneer: +10 Armor, Gives Abilities Triton's Chorus & Increase Base Strength
+
+Accessory: Fulsileer's Precisio Stone - Musketeer: +19 Accuracy, Gives Abilities True Grit & Quick Adjust

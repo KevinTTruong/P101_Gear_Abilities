@@ -1,0 +1,76 @@
+Artillery
+Assassin's Mist
+Assassin's Strike
+Back Stab
+Bonfire Shot
+Calm the Troops
+Canister Shot
+Cloud Spirit
+Critical Strike
+Critical Strike (Ranged)
+Critical Strike +3 (Melee)
+Critical Strike +3 (Ranged)
+Cyclone Round
+Ghostwail
+Grape Shot
+Great Juju
+Gunnery
+Hurricane Round
+Incendiary Shot
+Increase Base Will
+Inferno Shot
+Jobu's Breath
+Jobu's Embrace
+Juju
+Kracken's Lament
+Kraken's Coils
+Kraken's Lament
+Leviathan's Call
+Mega Strike
+Mojo Blade
+Mojo Mastery
+Mojo Storm
+Mournsong
+Rallying Call
+Revive
+Rouse
+Sky Spirit
+The Big Guns
+Triton's Song
+Uncanny Shot
+Uncanny shot
+Valor's Armor
+Valor's Fortress
+Vicious Charge
+Walk in Darkness
+Walk in Shadows
+Whale's Might
+Wind Spirit
+
+All Classes:
+Briny Ballad
+Burning Palm
+Case Shot
+Charming Gaze (Rank 1)
+Dispel Magic
+Druid's Chant
+Increase Base Accuracy
+Increase Base Agility
+Increase Base Strength
+Jobu's Kiss
+Pirate
+Rain of Mortarshells
+Rally the Clay
+Random
+Seaver Shanty
+Shadow Step
+Sneak Attack
+Soul Harvest (Rank 1)
+Soul Shroud
+Stone Bastion
+Storm Breath
+Summon Frozen Tide
+Summon Imperial Wave
+Summon Terror-Cotta Troupe
+True Grit
+Wyvern's Song
